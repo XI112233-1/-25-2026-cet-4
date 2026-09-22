@@ -1,0 +1,199 @@
+id,word,phonetic,pos,meaning,day,section
+1,space,/speɪs/,n.,外层空间；太空；空间,1,旋转相关
+2,spacious,/ˈspeɪʃəs/,adj.,宽敞的,1,旋转相关
+3,universe,/ˈjuːnɪvɜːs/,n.,宇宙；领域，体系（uni- 统一，一起；-verse 旋转）,1,旋转相关
+4,universal,/ˌjuːnɪˈvɜːsl/,adj.,普遍的；全世界的；共同的,1,旋转相关
+5,unite,/juˈnaɪt/,v.,联合；团结,1,旋转相关
+6,reunite,/ˌriːjuˈnaɪt/,v.,（使）重逢；再次相聚,1,旋转相关
+7,union,/ˈjuːniən/,n.,协会，联合会；工会,1,旋转相关
+8,diverse,/daɪˈvɜːs/,adj.,不同的；多种多样的（di- 分开）,1,旋转相关
+9,convert,/kənˈvɜːt/,v. / n.,转变；转换　n. 改变信仰者,1,旋转相关
+10,reverse,/rɪˈvɜːs/,v. / adj. / n.,逆转；彻底改变　adj. 相反的；反向的　n. 逆转；倒档,1,旋转相关
+11,reversely,/rɪˈvɜːsli/,adv.,相反地（作文代替 but）＝ on the contrary,1,旋转相关
+12,anniversary,/ˌænɪˈvɜːsəri/,n.,周年纪念日（anni- 年）,1,旋转相关
+13,annual,/ˈænjuəl/,adj.,每年的；年度的；一年一次的,1,旋转相关
+14,controversy,/ˈkɒntrəvɜːsi/,n.,争议；（公开的）争论，论战（contro- 相反，反对）,1,旋转相关
+15,controversial,/ˌkɒntrəˈvɜːʃl/,adj.,引起争论的；有争议的,1,旋转相关
+16,contrary,/ˈkɒntrəri/,adj. / n.,相对立的，相反的　n. 相反的事实（或情况）　adj. 乖戾的；逆反的,1,旋转相关
+17,contrast,/ˈkɒntrɑːst/ (n.)　/kənˈtrɑːst/ (v.),n. / v.,明显的差异；对比，对照　v. 对比，对照（contra- 相反，st 街道）in / by contrast,1,旋转相关
+18,nasty,/ˈnɑːsti/,adj.,令人厌恶的；不友好的；严重的；无礼的；危险的,1,旋转相关
+19,astronaut,/ˈæstrənɔːt/,n.,宇航员，航天员（astro- 天文的，航天的）,1,航天与天体
+20,heaven,/ˈhevn/,n.,天堂；天空,1,航天与天体
+21,satellite,/ˈsætəlaɪt/,n.,卫星；人造卫星,1,航天与天体
+22,moon,/muːn/,n.,月球；卫星,1,航天与天体
+23,develop,/dɪˈveləp/,v.,开发；发展；成长；增强；发挥,1,发展与演变
+24,development,/dɪˈveləpmənt/,n.,发展；开发,1,发展与演变
+25,developer,/dɪˈveləpə(r)/,n.,（新产品的）开发者；开发商,1,发展与演变
+26,evolve,/ɪˈvɒlv/,v.,（使）演变，（使）进化；（使）发展（-volve 旋转，e 出去）,1,发展与演变
+27,evolution,/ˌiːvəˈluːʃn/,n.,进化；发展,1,发展与演变
+28,revolve,/rɪˈvɒlv/,v.,旋转；环绕,1,发展与演变
+29,revolution,/ˌrevəˈluːʃn/,n.,旋转；彻底变革（革命）,1,发展与演变
+30,involve,/ɪnˈvɒlv/,v.,涉及；包含；需要（in 里面）,1,发展与演变
+31,advance,/ədˈvɑːns/,n. / v.,进展，进步；预先　v. 前进，推动（a+字母表一再地，强调）,1,前进与推进
+32,ahead,/əˈhed/,adv.,向前；提前；领先（a 前面的）,1,前进与推进
+33,ongoing,/ˈɒnɡəʊɪŋ/,adj.,继续进行的，不断发展的,1,前进与推进
+34,improve,/ɪmˈpruːv/,v.,改进；改善,1,前进与推进
+35,improvement,/ɪmˈpruːvmənt/,n.,改进；改善,1,前进与推进
+36,approve,/əˈpruːv/,v.,批准；赞成，同意；认可,1,前进与推进
+37,disapprove,/ˌdɪsəˈpruːv/,v.,反对，否决,1,前进与推进
+38,approval,/əˈpruːvl/,n.,赞成；批准,1,前进与推进
+39,proof,/pruːf/,n. / adj.,证据，证明　adj. 能抵御,1,前进与推进
+40,enhance,/ɪnˈhɑːns/,v.,提高；增强,1,增强与扩大
+41,enhancement,/ɪnˈhɑːnsmənt/,n.,增强,1,增强与扩大
+42,enable,/ɪˈneɪbl/,v.,使能够；使成为可能（able 有能力的）,1,增强与扩大
+43,enlarge,/ɪnˈlɑːdʒ/,v.,扩大，扩展；详述,1,增强与扩大
+44,enrich,/ɪnˈrɪtʃ/,v.,充实；使丰富；使饱含（某物）,1,增强与扩大
+45,fasten,/ˈfɑːsn/,v.,扎牢，扣住，系牢,1,紧固与松开
+46,tight,/taɪt/,adj. / adv.,牢固的，紧的；严峻的　adv. 紧紧地；牢固地,1,紧固与松开
+47,tighten,/ˈtaɪtn/,v.,（使）变紧，更加牢固,1,紧固与松开
+48,buckle,/ˈbʌkl/,v. / n.,扣住，扣紧；（被）压垮　n.（皮带的）搭扣；锁扣,1,紧固与松开
+49,watertight,/ˈwɔːtətaɪt/,adj.,不透水的；防水的；严密的,1,紧固与松开
+50,loose,/luːs/,v. / adj.,释放；松开　adj. 未固定牢的；自由的,1,紧固与松开
+51,loosen,/ˈluːsn/,v.,解开，松开；放宽,1,紧固与松开
+52,undo,/ʌnˈduː/,v.,打开；消除，取消,1,紧固与松开
+53,form,/fɔːm/,n. / v.,形式；表格　v. 组成；（使）形成,1,形式与规范
+54,formal,/ˈfɔːml/,adj.,正式的；庄重的；正规的,1,形式与规范
+55,uniform,/ˈjuːnɪfɔːm/,n. / adj.,校服，制服　adj. 统一的,1,形式与规范
+56,formation,/fɔːˈmeɪʃn/,n.,形成，组成；形成物，组成物,1,形式与规范
+57,reform,/rɪˈfɔːm/,n. / v.,改革，改善,1,形式与规范
+58,format,/ˈfɔːmæt/,n. / v.,总体安排；计划；设计　v. 格式化,1,形式与规范
+59,conform,/kənˈfɔːm/,v.,(~ to) 遵守；顺从；相一致,1,形式与规范
+60,conformity,/kənˈfɔːməti/,n.,（对社会规则的）遵从，遵守,1,形式与规范
+61,comply,/kəmˈplaɪ/,v.,遵守；顺从,1,形式与规范
+62,compliance,/kəmˈplaɪəns/,n.,遵从；服从；顺从,1,形式与规范
+63,formulate,/ˈfɔːmjuleɪt/,v.,确切表达；认真阐述；制定；规划；构想,1,形式与规范
+64,formula,/ˈfɔːmjələ/,n.,公式，方程式,1,形式与规范
+65,program(me),/ˈprəʊɡræm/,n. / v.,计划，程序；节目；项目　v.（为计算机）编写程序；预设,1,执行与训练
+66,perform,/pəˈfɔːm/,v.,做；执行；表演；工作；运转,1,执行与训练
+67,performance,/pəˈfɔːməns/,n.,表演；表现；业绩；成绩,1,执行与训练
+68,drill,/drɪl/,v. / n.,钻（孔）；训练；作……演习　n. 钻头；（应对紧急情况的）演习，训练,1,执行与训练
+69,inform,/ɪnˈfɔːm/,v.,通知，告知；（使）了解，熟悉,1,通知与告知
+70,well-informed,/ˌwel ɪnˈfɔːmd/,adj.,消息灵通的,1,通知与告知
+71,notify,/ˈnəʊtɪfaɪ/,v.,（正式）通报，通知（ify 使知道）,1,通知与告知
+72,notification,/ˌnəʊtɪfɪˈkeɪʃn/,n.,通知，通告，告示,1,通知与告知
+73,noticeable,/ˈnəʊtɪsəbl/,adj.,显著的；显而易见的,1,通知与告知
+74,coast,/kəʊst/,n.,海岸；海滨,2,海岸与地貌
+75,coastal,/ˈkəʊstl/,adj.,沿海的，靠近海岸的,2,海岸与地貌
+76,toast,/təʊst/,v. / n.,为……干杯；烤　n. 吐司；祝酒，敬酒,2,海岸与地貌
+77,roast,/rəʊst/,v. / n. / adj.,烤；烘　n. 烤肉；庆祝会　adj. 烤的，焙的,2,海岸与地貌
+78,sail,/seɪl/,v. / n.,航行；开船；在……上航行；驾驶（船）　n. 帆；航行,2,海岸与地貌
+79,shore,/ʃɔː(r)/,n.,岸；滨,2,海岸与地貌
+80,island,/ˈaɪlənd/,n.,岛,2,海岸与地貌
+81,inland,/ˌɪnˈlænd/ (adv.)　/ˈɪnlænd/ (adj.),adv. / adj.,向（或在）内陆　adj. 内陆的,2,海岸与地貌
+82,beach,/biːtʃ/,n.,海滩，沙滩，海滨,2,海岸与地貌
+83,bench,/bentʃ/,n.,长凳,2,海岸与地貌
+84,harbo(u)r,/ˈhɑːbə(r)/,n. / v.,港口　v. 庇护；包含,2,海岸与地貌
+85,embrace,/ɪmˈbreɪs/,v. / n.,拥抱；包含；围绕　n. 拥抱；包含；接受（em- 进入…之中，brace 支撑物，支架）,2,海岸与地貌
+86,bay,/beɪ/,n.,海湾；分隔间,2,海岸与地貌
+87,shelter,/ˈʃeltə(r)/,n. / v.,掩蔽；避难所　v. 提供庇护；躲避,2,海岸与地貌
+88,shade,/ʃeɪd/,n. / v.,阴凉处，暗处　v. 为……遮阳，遮蔽,2,海岸与地貌
+89,shave,/ʃeɪv/,v. / n.,剃，刮去（毛发）；削减，调低　n. 刮脸，剃须,2,海岸与地貌
+90,belt,/belt/,n. / v.,地带；腰带　v. 猛击；用带子系住,2,捆绑与感官
+91,bond,/bɒnd/,n. / v.,纽带；联系；债券　v. 使牢固结合,2,捆绑与感官
+92,bind,/baɪnd/,v.,捆绑，系；（用长布条）缠绕；结合；约束,2,捆绑与感官
+93,blind,/blaɪnd/,adj. / v.,失明的；盲目的　v. 使失明；使失去判断能力,2,捆绑与感官
+94,deaf,/def/,adj.,聋的；失聪的；对……充耳不闻的,2,捆绑与感官
+95,bend,/bend/,v. / n.,使弯曲；折弯；偏向　n. 弯道；弯曲,2,弯曲与混合
+96,twist,/twɪst/,v. / n.,使弯曲；使扭曲；转动；歪曲　n. 扭动；转弯处,2,弯曲与混合
+97,blend,/blend/,v.,混合，融合,2,弯曲与混合
+98,mix,/mɪks/,n. / v.,混合；混乱　v. 使混合；配制,2,弯曲与混合
+99,stir,/stɜː(r)/,n. / v.,（一些人感到的）激动，震动；搅动　v. 搅和，搅拌；打动；激发,2,弯曲与混合
+100,mountain,/ˈmaʊntən/,n.,山；高山,2,山与根基
+101,fountain,/ˈfaʊntən/,n.,泉水；喷泉；源泉,2,山与根基
+102,profound,/prəˈfaʊnd/,adj.,影响深远的；深切的；理解深刻的,2,山与根基
+103,foundation,/faʊnˈdeɪʃn/,n.,地基；基础；根据,2,山与根基
+104,base,/beɪs/,n. / v.,基础；根据　v. 以……为据点（或总部等）；把（总部）设在,2,base 家族
+105,basement,/ˈbeɪsmənt/,n.,地下室,2,base 家族
+106,basic,/ˈbeɪsɪk/,adj.,基本的；初级的；必需的,2,base 家族
+107,basically,/ˈbeɪsɪkli/,adv.,基本上,2,base 家族
+108,basis,/ˈbeɪsɪs/,n.,原因；基础；基准,2,base 家族
+109,mount,/maʊnt/,v.,逐步增加；登上，爬上,2,升降与数量
+110,amount,/əˈmaʊnt/,n. / v.,数量　v.（与 to 连用）等于；总计,2,升降与数量
+111,soar,/sɔː(r)/,v.,急升，猛增；高飞；升空,2,升降与数量
+112,ascend,/əˈsend/,v.,升高；攀登,2,升降与数量
+113,descend,/dɪˈsend/,v.,下来，下降；（~ into）陷入（de 往下）,2,升降与数量
+114,decline,/dɪˈklaɪn/,v. / n.,下降，衰落；谢绝　n. 减少；下降,2,升降与数量
+115,incline,/ɪnˈklaɪn/ (v.)　/ˈɪnklaɪn/ (n.),n. / v.,斜坡，斜面　v.（使）倾斜，（使）倾向于（in 往上）,2,升降与数量
+116,ancestor,/ˈænsestə(r)/,n.,祖宗，祖先,2,祖先与共识
+117,ancient,/ˈeɪnʃənt/,adj.,古代的，古老的,2,祖先与共识
+118,consensus,/kənˈsensəs/,n.,共识,2,祖先与共识
+119,proceed,/prəˈsiːd/,v.,继续进行，开展,2,进程与程序
+120,procession,/prəˈseʃn/,n.,队伍，列队行进,2,进程与程序
+121,troop,/truːp/,n. / v.,士兵　v. 列队行进,2,进程与程序
+122,process,/ˈprəʊses/,n. / v.,过程　v. 加工，处理,2,进程与程序
+123,processor,/ˈprəʊsesə(r)/,n.,加工者，处理器,2,进程与程序
+124,procedure,/prəˈsiːdʒə(r)/,n.,程序，步骤,2,进程与程序
+125,access,/ˈækses/,n.,接近，通道,2,接近与超出
+126,assess,/əˈses/,v.,评估,2,接近与超出
+127,exceed,/ɪkˈsiːd/,v.,超过，超出,2,接近与超出
+128,exceedingly,/ɪkˈsiːdɪŋli/,adv.,极其地，非常地,2,接近与超出
+129,beyond,/bɪˈjɒnd/,prep.,超出，超过,2,接近与超出
+130,surplus,/ˈsɜːpləs/,adj.,剩余的，过剩的,2,接近与超出
+131,extra,/ˈekstrə/,adj.,额外的，附加的,2,接近与超出
+132,excess,/ɪkˈses/,n.,超过，过量，多余的量,2,接近与超出
+133,excessive,/ɪkˈsesɪv/,adj.,过分的，过度的,2,接近与超出
+134,success,/səkˈses/,n.,成功，成功的人,2,成功与卓越
+135,succeed,/səkˈsiːd/,v.,成功，接替,2,成功与卓越
+136,successor,/səkˈsesə(r)/,n.,继承者,2,成功与卓越
+137,excel,/ɪkˈsel/,v.,突出，擅长,2,成功与卓越
+138,excellent,/ˈeksələnt/,adj.,优秀的，杰出的,2,成功与卓越
+139,excellence,/ˈeksələns/,n.,杰出，优秀,2,成功与卓越
+140,stride,/straɪd/,v.,大步走，跨过,2,行走与攀爬
+141,wander,/ˈwɒndə(r)/,v.,漫游，漫步,2,行走与攀爬
+142,crawl,/krɔːl/,v. / n.,爬行，缓慢行进,2,行走与攀爬
+143,climb,/klaɪm/,v. / n.,攀爬，攀升,2,行走与攀爬
+144,progress,/ˈprəʊɡres/ (n.)　/prəˈɡres/ (v.),n.,进步，进展,2,进步与进取
+145,congress,/ˈkɒŋɡres/,n.,代表大会，国会,2,进步与进取
+146,aggressive,/əˈɡresɪv/,adj.,侵略的，好斗的,2,进步与进取
+147,move,/muːv/,v. / n.,移动，行动,3,移动与情感
+148,mobile,/ˈməʊbaɪl/,adj. / n.,可移动的　n. 移动电话,3,移动与情感
+149,motion,/ˈməʊʃn/,n. / v.,运动，移动,3,移动与情感
+150,static,/ˈstætɪk/,adj. / n.,静止的　n. 静电,3,移动与情感
+151,motive,/ˈməʊtɪv/,n. / adj.,动机，目的,3,移动与情感
+152,motivate,/ˈməʊtɪveɪt/,v.,激励，激发,3,移动与情感
+153,motivation,/ˌməʊtɪˈveɪʃn/,n.,动机，动力,3,移动与情感
+154,remove,/rɪˈmuːv/,v.,移开，拿开,3,移动与情感
+155,removal,/rɪˈmuːvl/,n.,移除，搬迁，免职,3,移动与情感
+156,emotion,/ɪˈməʊʃn/,n.,情绪，情感,3,移动与情感
+157,emotional,/ɪˈməʊʃənl/,adj.,易激动的，情绪化的,3,移动与情感
+158,ratio,/ˈreɪʃiəʊ/,n.,比率，比例,3,比率与比例
+159,rational,/ˈræʃnəl/,adj. / n.,合理的，理智的,3,比率与比例
+160,irrational,/ɪˈræʃənl/,adj.,不理智的，非理性的,3,比率与比例
+161,rate,/reɪt/,n. / v.,速度，比率,3,比率与比例
+162,percentage,/pəˈsentɪdʒ/,n.,百分比，百分率，比例,3,比率与比例
+163,remote,/rɪˈməʊt/,adj.,遥远的，偏远的,3,远程与促进
+164,promote,/prəˈməʊt/,v.,促进，推动，促销,3,远程与促进
+165,promotion,/prəˈməʊʃn/,n.,晋升，促销，促进,3,远程与促进
+166,action,/ˈækʃn/,n.,行为，行动；功能，作用,3,行为与实际
+167,deed,/diːd/,n.,行为；行动,3,行为与实际
+168,behavior,/bɪˈheɪvjə(r)/,n.,行为，举止；态度,3,行为与实际
+169,behave,/bɪˈheɪv/,v.,表现，举止,3,行为与实际
+170,active,/ˈæktɪv/,adj.,积极的；忙碌的；活跃的（-ive ……的）,3,行为与实际
+171,react,/riˈækt/,v.,回应，反应,3,行为与实际
+172,reaction,/riˈækʃn/,n.,反应；反作用,3,行为与实际
+173,exact,/ɪɡˈzækt/,adj. / v.,准确的，精确的；严谨的　v. 要求；迫使（ex 出去）,3,行为与实际
+174,actual,/ˈæktʃuəl/,adj.,实际的；真正的（-ual ……的）,3,行为与实际
+175,actually,/ˈæktʃuəli/,adv.,事实上，实际上,3,行为与实际
+176,practical,/ˈpræktɪkl/,adj.,实际的；真实的；客观存在的,3,行为与实际
+177,practicality,/ˌpræktɪˈkæləti/,n.,实用性；实际情况；可行性,3,行为与实际
+178,virtual,/ˈvɜːtʃuəl/,adj.,事实上的，实际上的；虚拟的,3,行为与实际
+179,virtually,/ˈvɜːtʃuəli/,adv.,几乎；事实上,3,行为与实际
+180,frame,/freɪm/,n. / v.,框架；结构　v. 做框；制订,3,框架与部分
+181,framework,/ˈfreɪmwɜːk/,n.,框架；结构；机制；准则,3,框架与部分
+182,skeleton,/ˈskelɪtn/,n.,骨骼；梗概；框架,3,框架与部分
+183,fragment,/ˈfræɡmənt/,n. / v.,碎片；片段　v. 破碎，分裂,3,框架与部分
+184,fraction,/ˈfrækʃn/,n.,小部分；少量；一点儿,3,框架与部分
+185,portion,/ˈpɔːʃn/,n. / v.,部分；一份　v. 分成若干份,3,框架与部分
+186,proportion,/prəˈpɔːʃn/,n.,部分；份额；比例；面积,3,框架与部分
+187,proportional,/prəˈpɔːʃənl/,adj.,相称的（proportion 派生）,3,框架与部分
+188,burn,/bɜːn/,v.,燃烧；灼伤；激怒,3,燃烧与火花
+189,flame,/fleɪm/,n. / v.,火焰；鲜红色；强烈情感　v. 燃烧；变红,3,燃烧与火花
+190,flash,/flæʃ/,n. / v.,闪光；闪现　v. 闪光，闪烁,3,燃烧与火花
+191,flesh,/fleʃ/,n.,肉；果肉（形近 fresh）,3,新鲜与活力
+192,fresh,/freʃ/,adj.,新鲜的；清新的；淡的,3,新鲜与活力
+193,refresh,/rɪˈfreʃ/,v.,使恢复精力；使凉爽；提醒,3,新鲜与活力
+194,refreshment,/rɪˈfreʃmənt/,n.,活力恢复；饮料、小食（refresh 派生）,3,新鲜与活力
+195,flourish,/ˈflʌrɪʃ/,v.,繁荣；茂盛；兴旺（联想 flower 花朵盛放）,3,新鲜与活力
+196,flour,/ˈflaʊə(r)/,n.,面粉；粉状物（形近 flower）,3,新鲜与活力
+197,powder,/ˈpaʊdə(r)/,n.,粉；药粉；火药,3,粉末
+198,somewhat,/ˈsʌmwɒt/,adv.,稍微，有点儿,3,程度副词
