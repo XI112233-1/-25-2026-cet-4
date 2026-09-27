@@ -513,9 +513,9 @@
 
 
 ---
-# 第六天 · 共 20 词
+# 第六天 · 共 50 词
 
-> 本日合计 **20** 个词条（序号 276–295）· 严格按发送顺序
+> 本日合计 **50** 个词条（序号 276–325）· 严格按发送顺序
 
 ## 一、志向与成就
 
@@ -551,4 +551,59 @@
 | 293 | accumulate | /əˈkjuːmjəleɪt/ | v. | 积累；积聚；堆积 |
 | 294 | calculate | /ˈkælkjuleɪt/ | v. | 计算；估计；推测 |
 | 295 | calendar | /ˈkælɪndə(r)/ | n. | 日历；历法 |
+
+## 四、认为与 -sume 词族
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 296 | deem | /diːm/ | v. | 认为；相信 |
+| 297 | assume | /əˈsjuːm/ | v. | 假设；认为 |
+| 298 | assumption | /əˈsʌmpʃn/ | n. | 假定；承担 |
+| 299 | resume | /ˈrezjumeɪ/ n.；/rɪˈzjuːm/ v. | n. / v. | 概述，简历　v. 重新开始 |
+| 300 | consume | /kənˈsjuːm/ | v. | 消耗；消费 |
+| 301 | consumer | /kənˈsjuːmə(r)/ | n. | 消费者 |
+
+## 五、风俗与传统
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 302 | custom | /ˈkʌstəm/ | n. | 传统；风俗 |
+| 303 | customs | /ˈkʌstəmz/ | n. | 海关 |
+| 304 | customary | /ˈkʌstəməri/ | adj. | 习俗的 |
+| 305 | accustom | /əˈkʌstəm/ | v. | 使习惯 |
+| 306 | accustomed | /əˈkʌstəmd/ | adj. | 惯例的 |
+| 307 | traditional | /trəˈdɪʃənl/ | adj. | 传统的 |
+| 308 | convention | /kənˈvenʃn/ | n. | 风俗；传统 |
+| 309 | conventional | /kənˈvenʃənl/ | adj. | 依照惯例的 |
+
+## 六、顾客与代理
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 310 | customer | /ˈkʌstəmə(r)/ | n. | 顾客 |
+| 311 | client | /ˈklaɪənt/ | n. | 客户 |
+| 312 | agent | /ˈeɪdʒənt/ | n. | 代理人 |
+| 313 | agency | /ˈeɪdʒənsi/ | n. | 代理机构 |
+| 314 | deputy | /ˈdepjuti/ | n. | 副手 |
+
+## 七、居住与栖息
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 315 | inhabit | /ɪnˈhæbɪt/ | v. | 栖息于；居住于 |
+| 316 | inhabitant | /ɪnˈhæbɪtənt/ | n. | 居民 |
+| 317 | habitat | /ˈhæbɪtæt/ | n. | 栖息地 |
+| 318 | reside | /rɪˈzaɪd/ | v. | 居住在；定居于 |
+| 319 | resident | /ˈrezɪdənt/ | n. | 居民 |
+| 320 | residence | /ˈrezɪdəns/ | n. | 住所 |
+
+## 八、生活与生计
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 321 | living | /ˈlɪvɪŋ/ | adj. / n. | 活着的　n. 生计；谋生 |
+| 322 | live | /lɪv/ v.；/laɪv/ adj. | v. / adj. | 活着　adj. 活的 |
+| 323 | livelihood | /ˈlaɪvlihʊd/ | n. | 生计 |
+| 324 | lively | /ˈlaɪvli/ | adj. | 活泼的 |
+| 325 | alive | /əˈlaɪv/ | adj. | 活着的 |
 
