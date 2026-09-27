@@ -511,3 +511,44 @@
 | 274 | migrate | /maɪˈɡreɪt/ | v. | （随季节变化）迁徙；移动 |
 | 275 | namely | /ˈneɪmli/ | adv. | 即；也就是 |
 
+
+---
+# 第六天 · 共 20 词
+
+> 本日合计 **20** 个词条（序号 276–295）· 严格按发送顺序
+
+## 一、志向与成就
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 276 | ambition | /æmˈbɪʃn/ | n. | 野心；雄心；志向 |
+| 277 | ambitious | /æmˈbɪʃəs/ | adj. | 有野心的；费力的 |
+| 278 | accomplish | /əˈkʌmplɪʃ/ | v. | 完成；达到；实现 |
+| 279 | accomplishment | /əˈkʌmplɪʃmənt/ | n. | 成就 |
+| 280 | achieve | /əˈtʃiːv/ | v. | 达到；实现；成功 |
+| 281 | achievement | /əˈtʃiːvmənt/ | n. | 成就，功绩；达到 |
+| 282 | fulfill | /fʊlˈfɪl/ | v. | 实现，履行 |
+| 283 | fulfillment | /fʊlˈfɪlmənt/ | n. | 成就感；实现 |
+
+## 二、满足与现实
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 284 | content | /ˈkɒntent/ n.；/kənˈtent/ adj. / v. | n. / adj. / v. | 内容；含量；主题　adj. 满意的　v. 使满意 |
+| 285 | contented | /kənˈtentɪd/ | adj. | 知足的 |
+| 286 | satisfy | /ˈsætɪsfaɪ/ | v. | 使满意；使满足 |
+| 287 | empty | /ˈempti/ | adj. / v. | 空的；空虚的　v. 使变空 |
+| 288 | realistic | /ˌriːəˈlɪstɪk/ | adj. | 现实的；实际的；明智的；逼真的 |
+| 289 | realise / realize | /ˈriːəlaɪz/ | v. | 实现；理解，意识到 |
+| 290 | realm | /relm/ | n. | 领域；场所；王国 |
+
+## 三、“积累”相关
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 291 | stack | /stæk/ | v. / n. | （使）整齐地堆起　n. 整齐的一堆 |
+| 292 | pile | /paɪl/ | n. / v. | 一堆，一叠　v. 堆起，堆积 |
+| 293 | accumulate | /əˈkjuːmjəleɪt/ | v. | 积累；积聚；堆积 |
+| 294 | calculate | /ˈkælkjuleɪt/ | v. | 计算；估计；推测 |
+| 295 | calendar | /ˈkælɪndə(r)/ | n. | 日历；历法 |
+
