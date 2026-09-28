@@ -607,3 +607,57 @@
 | 324 | lively | /ˈlaɪvli/ | adj. | 活泼的 |
 | 325 | alive | /əˈlaɪv/ | adj. | 活着的 |
 
+
+---
+# 第七天 · 共 28 词
+
+> 本日合计 **28** 个词条（序号 326–353）· 严格按发送顺序
+
+## 一、sign 词族与委派辞职
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 326 | sign | /saɪn/ | n. / v. | 迹象；标志　v. 签（名）；签字 |
+| 327 | token | /ˈtəʊkən/ | n. / adj. | 标志；代金券　adj. 象征性的；装模作样的 |
+| 328 | signature | /ˈsɪɡnətʃə(r)/ | n. | 署名；签字 |
+| 329 | signal | /ˈsɪɡnəl/ | n. / v. | 信号；标志　v. 发信号；表明 |
+| 330 | assign | /əˈsaɪn/ | v. | 分配（某物）；分派；委派 |
+| 331 | assignment | /əˈsaɪnmənt/ | n. | （分派的）工作，任务 |
+| 332 | design | /dɪˈzaɪn/ | v. / n. | 设计；制造　n. 设计；图案 |
+| 333 | designer | /dɪˈzaɪnə(r)/ | n. / adj. | 设计师　adj. 名牌的 |
+| 334 | despatch | /dɪˈspætʃ/ | v. | 发送；派遣；发运（= dispatch） |
+| 335 | resign | /rɪˈzaɪn/ | v. | 辞职；辞去（某职务） |
+| 336 | quit | /kwɪt/ | v. | 辞职，离开 |
+
+## 二、重要与必要
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 337 | significant | /sɪɡˈnɪfɪkənt/ | adj. | 有重大意义的，重要的；显著的 |
+| 338 | significance | /sɪɡˈnɪfɪkəns/ | n. | 重要性；意义；含义 |
+| 339 | essential | /ɪˈsenʃl/ | n. / adj. | 必需品；要素　adj. 必不可少的；本质的 |
+| 340 | indispensable | /ˌɪndɪˈspensəbl/ | adj. | 不可或缺的，必不可少的 |
+| 341 | necessary | /ˈnesəsəri/ | adj. | 必需的；必然的 |
+| 342 | necessarily | /ˌnesəˈserəli/ | adv. | 必然地 |
+| 343 | necessity | /nəˈsesəti/ | n. | 必要；必然性；必需品 |
+| 344 | inevitable | /ɪnˈevɪtəbl/ | adj. | 不可避免的；不能防止的 |
+| 345 | avoid | /əˈvɔɪd/ | v. | 避免；回避 |
+
+## 三、appoint 词族
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 346 | appoint | /əˈpɔɪnt/ | v. | 任命；安排；确定（时间、地点） |
+| 347 | appointment | /əˈpɔɪntmənt/ | n. | 约会；预约；职务 |
+| 348 | disappoint | /ˌdɪsəˈpɔɪnt/ | v. | 使失望；使破灭 |
+| 349 | disappointed | /ˌdɪsəˈpɔɪntɪd/ | adj. | 失望的（disappointing：令人失望的） |
+
+## 四、适应与住宿
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 350 | accommodate | /əˈkɒmədeɪt/ | v. | 为（某人）提供住宿（或膳宿、座位等）；适应 |
+| 351 | accommodation | /əˌkɒməˈdeɪʃn/ | n. | 住处；办公处；住宿 |
+| 352 | adapt | /əˈdæpt/ | v. | 使适应；使适合 |
+| 353 | adopt | /əˈdɒpt/ | v. | 收养，采纳；接受 |
+
