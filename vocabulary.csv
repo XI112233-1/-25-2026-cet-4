@@ -380,3 +380,69 @@ id,word,phonetic,pos,meaning,day,section
 379,earnest,/ˈɜːnɪst/,adj.,认真的，诚挚的,Day7,八、方式与适度
 380,moderate,/ˈmɒdəreɪt/ v.；/ˈmɒdərət/ adj.,v. / adj.,缓和；使适中　adj. 适度的；中等的,Day7,八、方式与适度
 381,tolerate,/ˈtɒləreɪt/,v.,允许；忍受,Day7,八、方式与适度
+382,beam,/biːm/,n.,光线；梁,Day7,九、光与 light 词族
+383,light,/laɪt/,n. / adj. / v.,光线；电灯　adj. 充满亮光的；程度轻的　v. 使明亮,Day7,九、光与 light 词族
+384,bright,/braɪt/,adj.,明亮的；聪明的；愉快的,Day7,九、光与 light 词族
+385,slight,/slaɪt/,adj.,轻微的，少量的,Day7,九、光与 light 词族
+386,slightly,/ˈslaɪtli/,adv.,略微；稍微,Day7,九、光与 light 词族
+387,enlighten,/ɪnˈlaɪtn/,v.,启发；教导；启迪,Day7,九、光与 light 词族
+388,enlightenment,/ɪnˈlaɪtnmənt/,n.,启迪；启蒙运动,Day7,九、光与 light 词族
+389,lightning,/ˈlaɪtnɪŋ/,n. / adj.,闪电　adj. 闪电般的；飞快的,Day7,九、光与 light 词族
+390,thunder,/ˈθʌndə(r)/,n. / v.,雷声，轰隆声　v. 打雷,Day7,九、光与 light 词族
+391,thumb,/θʌm/,n. / v.,拇指　v. 快速翻阅,Day7,九、光与 light 词族
+392,delight,/dɪˈlaɪt/,n. / v.,高兴　v. （使）高兴,Day7,九、光与 light 词族
+393,delighted,/dɪˈlaɪtɪd/,adj.,高兴的,Day7,九、光与 light 词族
+394,highlight,/ˈhaɪlaɪt/,v. / n.,突出，使显著　n. 高光时刻；最精彩的部分,Day7,九、光与 light 词族
+395,solar,/ˈsəʊlə(r)/,adj.,太阳的；日光的,Day7,十、太阳与晨昏
+396,sunlight,/ˈsʌnlaɪt/,n.,阳光,Day7,十、太阳与晨昏
+397,sunset,/ˈsʌnset/,n.,日落,Day7,十、太阳与晨昏
+398,outset,/ˈaʊtset/,n.,开始；开端（at the outset = at the beginning）,Day7,十、太阳与晨昏
+399,dawn,/dɔːn/,n. / v.,黎明；开端　v. 破晓；开始,Day7,十、太阳与晨昏
+400,dusk,/dʌsk/,n.,黄昏；傍晚,Day7,十、太阳与晨昏
+401,shed,/ʃed/,n. / v.,简易房；棚　v. 散发出光；流；洒,Day7,十一、散发与光源
+402,tear,/teə(r)/ v.；/tɪə(r)/ n.,v. / n.,撕裂；戳破　n. 眼泪,Day7,十一、散发与光源
+403,crystal,/ˈkrɪstl/,n.,水晶；晶粒,Day7,十一、散发与光源
+404,candle,/ˈkændl/,n.,蜡烛；烛形物；烛光,Day7,十一、散发与光源
+405,cancel,/ˈkænsl/,v.,取消，废除；删去,Day7,十一、散发与光源
+406,canteen,/kænˈtiːn/,n.,餐厅；食堂,Day7,十一、散发与光源
+407,dizzy,/ˈdɪzi/,adj.,头晕目眩的；傻乎乎的，愚蠢的,Day7,十二、身体感觉
+408,faint,/feɪnt/,adj. / v.,（光、声、味）微弱的；昏厥的　v. 昏厥,Day7,十二、身体感觉
+409,solid,/ˈsɒlɪd/,n. / adj.,固体　adj. 固体的；坚固的；可靠的,Day7,十三、物态与体积
+410,consolidate,/kənˈsɒlɪdeɪt/,v.,使巩固；使加强,Day7,十三、物态与体积
+411,fluid,/ˈfluːɪd/,adj. / n.,流动的　n. 液体,Day7,十三、物态与体积
+412,liquid,/ˈlɪkwɪd/,n. / adj.,液体　adj. 液体的，液态的,Day7,十三、物态与体积
+413,volume,/ˈvɒljuːm/,n.,体积；容积；音量；一卷,Day7,十三、物态与体积
+414,bulk,/bʌlk/,n.,体积，大块；大部分,Day7,十三、物态与体积
+415,bulky,/ˈbʌlki/,adj.,庞大的；笨重的,Day7,十三、物态与体积
+416,batch,/bætʃ/,n.,一批；（食物、药物等）一批生产的量,Day7,十三、物态与体积
+417,patch,/pætʃ/,v. / n.,打补丁　n. 补丁；斑；小块土地；戒烟贴片,Day7,十三、物态与体积
+418,minimum,/ˈmɪnɪməm/,n. / adj.,最小值；最低限度　adj. 最小的；最低限度的,Day7,十四、极值
+419,maximum,/ˈmæksɪməm/,n. / adj.,最大量；最大限度　adj. 最多的；最大极限的,Day7,十四、极值
+420,climax,/ˈklaɪmæks/,n. / v.,高潮，顶点　v. 达到极点,Day7,十四、极值
+421,vessel,/ˈvesl/,n.,船；容器；脉管；导管,Day7,十五、脉搏与冲动
+422,pulse,/pʌls/,n. / v.,脉搏；脉率　v. 搏动；跳动,Day7,十五、脉搏与冲动
+423,impulse,/ˈɪmpʌls/,n.,冲动；心血来潮；推动力；刺激,Day7,十五、脉搏与冲动
+424,impulsive,/ɪmˈpʌlsɪv/,adj.,凭冲动行事的；易冲动的,Day7,十五、脉搏与冲动
+425,flood,/flʌd/,n. / v.,洪水；水灾　v. （使）灌满水；淹没,Day7,十六、水流与液体动作
+426,fluctuate,/ˈflʌktʃueɪt/,v.,波动；（在…之间）起伏不定（大小、数量、质量等）,Day7,十六、水流与液体动作
+427,bleed,/bliːd/,v.,出血，流血,Day7,十六、水流与液体动作
+428,dry,/draɪ/,adj. / v.,干的；干燥的　v. （使）变干；（把…弄干）,Day7,十六、水流与液体动作
+429,drain,/dreɪn/,n. / v.,下水道；耗竭　v. 排水；排空；流出,Day7,十六、水流与液体动作
+430,drainage,/ˈdreɪnɪdʒ/,n.,排水；排水系统；放水,Day7,十六、水流与液体动作
+431,bubble,/ˈbʌbl/,n. / v.,泡；泡沫（很可能持续不长的好景或好运）　v. 起泡；冒泡,Day7,十六、水流与液体动作
+432,bulb,/bʌlb/,n.,电灯泡；球状物,Day7,十六、水流与液体动作
+433,soak,/səʊk/,v. / n.,浸泡；浸湿　n. 浸泡；泡澡,Day7,十六、水流与液体动作
+434,penetrate,/ˈpenətreɪt/,v.,进入；渗透，打入（组织、团体等）,Day7,十六、水流与液体动作
+435,filter,/ˈfɪltə(r)/,v. / n.,过滤；渗入　n. 过滤器,Day7,十六、水流与液体动作
+436,alcohol,/ˈælkəhɒl/,n.,酒精，乙醇；酒,Day7,十七、酒水与饮料
+437,liquor,/ˈlɪkə(r)/,n.,烈性酒；含酒精饮料,Day7,十七、酒水与饮料
+438,drunk,/drʌŋk/,adj.,醉的；陶醉的,Day7,十七、酒水与饮料
+439,beer,/bɪə(r)/,n.,啤酒,Day7,十七、酒水与饮料
+440,soda,/ˈsəʊdə/,n.,苏打汽水；苏打；纯碱,Day7,十七、酒水与饮料
+441,tobacco,/təˈbækəʊ/,n.,烟草，烟叶,Day7,十七、酒水与饮料
+442,beverage,/ˈbevərɪdʒ/,n.,（除水以外的）饮料,Day7,十七、酒水与饮料
+443,average,/ˈævərɪdʒ/,adj. / n.,平均的，正常的，普通的　n. 平均数；平均水平,Day7,十八、普通与容器
+444,common,/ˈkɒmən/,adj. / n.,常见的，普遍的；共有的　n. 公共用地；公共食堂,Day7,十八、普通与容器
+445,commonplace,/ˈkɒmənpleɪs/,adj. / n.,平凡的，普通的　n. 常见的事,Day7,十八、普通与容器
+446,kettle,/ˈketl/,n.,水壶；锅,Day7,十八、普通与容器
+447,basin,/ˈbeɪsn/,n.,盆；盆地,Day7,十八、普通与容器
