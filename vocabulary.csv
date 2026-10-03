@@ -487,3 +487,57 @@ id,word,phonetic,pos,meaning,day,section
 486,favor,/ˈfeɪvə(r)/,n. / v.,喜爱；恩惠；支持　v. 偏爱；支持；更喜欢,Day8,八、喜好与偏爱
 487,favorable,/ˈfeɪvərəbl/,adj.,有利的，适宜的,Day8,八、喜好与偏爱
 488,flavor,/ˈfleɪvə(r)/,n. / v.,味道；特色；概述　v. 给…调味,Day8,八、喜好与偏爱
+489,typical,/ˈtɪpɪkl/,adj.,典型的；一贯的，平常的,Day8,九、“与众不同”相关
+490,extraordinary,/ɪkˈstrɔːdnri/,adj.,非凡的；不平常的,Day8,九、“与众不同”相关
+491,eminent,/ˈemɪnənt/,adj.,明显的；杰出的，著名的,Day8,九、“与众不同”相关
+492,prominent,/ˈprɒmɪnənt/,adj.,突出的，卓越的，重要的,Day8,九、“与众不同”相关
+493,outstanding,/aʊtˈstændɪŋ/,adj.,优秀的，杰出的，突出的,Day8,九、“与众不同”相关
+494,mark,/mɑːk/,n. / v.,成绩；等级　v. 做记号；标记,Day8,九、“与众不同”相关
+495,remark,/rɪˈmɑːk/,n. / v.,言论；评述　v. 说起；评论,Day8,九、“与众不同”相关
+496,remarkable,/rɪˈmɑːkəbl/,adj.,非凡的；引人注目的,Day8,九、“与众不同”相关
+497,comment,/ˈkɒment/,n. / v.,议论；评论；解释　v. 表达意见,Day8,九、“与众不同”相关
+498,commence,/kəˈmens/,v.,开始；着手,Day8,九、“与众不同”相关
+499,brilliant,/ˈbrɪliənt/,adj.,明亮的；杰出的；聪颖的；巧妙的,Day8,十、精彩与奇迹
+500,terrific,/təˈrɪfɪk/,adj.,极好的，了不起的；惊人的,Day8,十、精彩与奇迹
+501,magnificent,/mæɡˈnɪfɪsnt/,adj.,宏伟的，壮丽的；值得赞扬的,Day8,十、精彩与奇迹
+502,splendid,/ˈsplendɪd/,adj.,极好的；壮丽的，灿烂的,Day8,十、精彩与奇迹
+503,splendour / splendor,/ˈsplendə(r)/,n.,壮丽；雄伟；华丽,Day8,十、精彩与奇迹
+504,marvelous,/ˈmɑːvələs/,adj.,极好的；非凡的,Day8,十、精彩与奇迹
+505,marvel,/ˈmɑːvl/,n. / v.,奇迹　v. 感到惊奇；大为赞叹,Day8,十、精彩与奇迹
+506,grand,/ɡrænd/,adj.,宏伟的；重大的，壮丽的,Day8,十、精彩与奇迹
+507,miracle,/ˈmɪrəkl/,n.,神迹；奇迹,Day8,十、精彩与奇迹
+508,magic,/ˈmædʒɪk/,n. / adj.,魔法，魔术　adj. 魔术的，有魔力的,Day8,十、精彩与奇迹
+509,magnetic,/mæɡˈnetɪk/,adj.,有磁性的；有吸引力的，有魅力的,Day8,十、精彩与奇迹
+510,magnet,/ˈmæɡnət/,n.,磁铁；有吸引力的人（或事物）,Day8,十、精彩与奇迹
+511,parliament,/ˈpɑːləmənt/,n.,议会；国会,Day8,十一、议会与代表
+512,delete,/dɪˈliːt/,v.,删除,Day8,十一、议会与代表
+513,delegate,/ˈdelɪɡət/ n.；/ˈdelɪɡeɪt/ v.,n. / v.,代表　v. 授（权）,Day8,十一、议会与代表
+514,delegation,/ˌdelɪˈɡeɪʃn/,n.,代表团；授权,Day8,十一、议会与代表
+515,senator,/ˈsenətə(r)/,n.,参议员,Day8,十一、议会与代表
+516,senate,/ˈsenət/,n.,参议院,Day8,十一、议会与代表
+517,council,/ˈkaʊnsl/,n.,理事会，委员会，地方议会,Day8,十一、议会与代表
+518,bureau,/ˈbjʊərəʊ/,n.,局；处；办事处,Day8,十一、议会与代表
+519,federal,/ˈfedərəl/,adj.,联邦制的,Day8,十二、政府与官员
+520,federation,/ˌfedəˈreɪʃn/,n.,联邦；联盟；联邦政府,Day8,十二、政府与官员
+521,govern,/ˈɡʌvn/,v.,统治；控制；支配,Day8,十二、政府与官员
+522,government,/ˈɡʌvənmənt/,n.,政府；政体；国家体制,Day8,十二、政府与官员
+523,minister,/ˈmɪnɪstə(r)/,n. / v.,大臣，部长；牧师　v. 当牧师,Day8,十二、政府与官员
+524,administer,/ədˈmɪnɪstə(r)/,v.,管理，治理；执行，实施,Day8,十二、政府与官员
+525,ministry,/ˈmɪnɪstri/,n.,（政府的）部,Day8,十二、政府与官员
+526,official,/əˈfɪʃl/,adj. / n.,正式的；官方的　n. 官员；高级职员,Day8,十二、政府与官员
+527,officer,/ˈɒfɪsə(r)/,n.,军官；官员；高级职员,Day8,十二、政府与官员
+528,minor,/ˈmaɪnə(r)/,adj. / n. / v.,较小的，次要的　n. 未成年人；辅修课程　v. 辅修,Day8,十二、政府与官员
+529,minus,/ˈmaɪnəs/,adj. / prep.,负的；负面的，不利的　prep. 减,Day8,十二、政府与官员
+530,lead,/liːd/,v.,引领，带路；导致；过（生活）,Day8,十三、领导与误导
+531,leader,/ˈliːdə(r)/,n.,领导人，首领,Day8,十三、领导与误导
+532,leading,/ˈliːdɪŋ/ adj.；/ˈledɪŋ/ n.,adj. / n.,最重要的；一流的；领先的　n. 行距（印刷文本两行之间的距离）,Day8,十三、领导与误导
+533,mislead,/ˌmɪsˈliːd/,v.,误导；引入歧途；使误信,Day8,十三、领导与误导
+534,misleading,/ˌmɪsˈliːdɪŋ/,adj.,令人误解的；引入歧途的,Day8,十三、领导与误导
+535,misunderstand,/ˌmɪsʌndəˈstænd/,v.,误解；误会,Day8,十三、领导与误导
+536,misfortune,/ˌmɪsˈfɔːtʃuːn/,n.,厄运；不幸（fortune：命运，幸运）,Day8,十三、领导与误导
+537,doom,/duːm/,n. / v.,毁灭；厄运　v. 注定（失败、毁灭等）,Day8,十四、命运
+538,fate,/feɪt/,n.,命运；天意；定数,Day8,十四、命运
+539,guide,/ɡaɪd/,n. / v.,指南；导游；指导者　v. 给某人领路（或导游）；指引,Day8,十五、指引与指南
+540,guidance,/ˈɡaɪdns/,n.,指导；咨询；导航,Day8,十五、指引与指南
+541,guideline,/ˈɡaɪdlaɪn/,n.,指导方针；行动纲领；准则,Day8,十五、指引与指南
+542,compass,/ˈkʌmpəs/,n.,指南针；圆规；界限,Day8,十五、指引与指南
