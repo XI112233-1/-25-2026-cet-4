@@ -4,9 +4,9 @@ CET-4 vocabulary notes from Liu Xiaoyan's lecture series. Synced from Notion.
 
 ## Stats
 
-- **Days:** 8
-- **Total entries:** 542
-- **Last updated:** 2026-10-03
+- **Days:** 9
+- **Total entries:** 580
+- **Last updated:** 2026-10-04
 
 ## Files
 
@@ -32,3 +32,4 @@ Source page: https://app.notion.com/p/3e1427ca190281609c10d59b6144b6ab
 | 6 | 50 | 276–325 |
 | 7 | 122 | 326–447 |
 | 8 | 95 | 448–542 |
+| 9 | 38 | 543–580 |
