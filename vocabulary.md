@@ -1114,3 +1114,62 @@
 | 609 | destruction | /dɪˈstrʌkʃn/ | n. | 破坏；毁灭；摧毁 |
 | 610 | decay | /dɪˈkeɪ/ | n. / v. | 衰退，衰减；腐烂 |
 | 611 | decade | /ˈdekeɪd/ | n. | 十年，十年期 |
+
+---
+
+# 第十天 · 共 33 词
+
+> 本日合计 **33** 个词条（序号 612–644）· 严格按发送顺序
+
+## 一、“out”合成词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 612 | outcome | /ˈaʊtkʌm/ | n. | 结果；效果 |
+| 613 | outbreak | /ˈaʊtbreɪk/ | n. | （暴力、疾病等坏事的）爆发，突然发生 |
+| 614 | breakthrough | /ˈbreɪkθruː/ | n. / adj. | 重大进展，突破　adj. 突破性的 |
+| 615 | outlet | /ˈaʊtlet/ | n. | 出口；分销店；发泄方式；表现机会 |
+| 616 | outlook | /ˈaʊtlʊk/ | n. | 观点；前景；景色 |
+| 617 | output | /ˈaʊtpʊt/ | n. / v. | （人、机器、机构的）产量，输出量　v. 输出 |
+
+## 二、over- 合成词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 618 | overcome | /ˌəʊvəˈkʌm/ | v. | 克服，战胜 |
+| 619 | overlook | /ˌəʊvəˈlʊk/ | v. | 俯视；忽略 |
+| 620 | overnight | /ˌəʊvəˈnaɪt/ adv.；/ˈəʊvənaɪt/ adj. | adv. / adj. | 忽然；在晚上　adj. 忽然的；夜间的 |
+| 621 | overtake | /ˌəʊvəˈteɪk/ | v. | 超过；赶上 |
+| 622 | overtime | /ˈəʊvətaɪm/ | n. | 加班 |
+| 623 | overdue | /ˌəʊvəˈdjuː/ | adj. | （到期）未付的，未做的；延误的 |
+| 624 | overhear | /ˌəʊvəˈhɪə(r)/ | v. | 偶然听到；无意中听到 |
+| 625 | overwhelm | /ˌəʊvəˈwelm/ | v. | 淹没；压倒 |
+| 626 | overwhelming | /ˌəʊvəˈwelmɪŋ/ | adj. | 压倒性的；巨大的 |
+| 627 | undertake | /ˌʌndəˈteɪk/ | v. | 承担；从事 |
+| 628 | overall | /ˌəʊvərˈɔːl/ adj./adv.；/ˈəʊvərɔːl/ n. | adj. / adv. / n. | 全面的；综合的　adv. 总计；总体上　n. 外套；工装服 |
+
+## 三、总体与聚集
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 629 | altogether | /ˌɔːltəˈɡeðə(r)/ | adv. | 完全；总共；总之 |
+| 630 | gather | /ˈɡæðə(r)/ | v. | 收集；聚集；增加 |
+| 631 | gathering | /ˈɡæðərɪŋ/ | n. | 聚集；集会 |
+| 632 | headquarters | /ˌhedˈkwɔːtəz/ | n. | 司令部；总部 |
+| 633 | quarter | /ˈkwɔːtə(r)/ | n. / v. | 四分之一；季度　v. 分为四份 |
+| 634 | beforehand | /bɪˈfɔːhænd/ | adv. | 预先；事先 |
+| 635 | ready | /ˈredi/ | adj. / adv. | 准备好的；已完成的；方便使用的　adv. 已做完；已完成 |
+| 636 | so-called | /ˌsəʊ ˈkɔːld/ | adj. | 所谓的 |
+
+## 四、“rupt”相关
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 637 | corrupt | /kəˈrʌpt/ | v. / adj. | 使腐化，使堕落；破坏　adj. 贪污的，腐败的（词根 rupt = break） |
+| 638 | bribe | /braɪb/ | v. / n. | 贿赂，向…行贿　n. 贿赂 |
+| 639 | bribery | /ˈbraɪbəri/ | n. | 行贿；行贿的财物 |
+| 640 | bankrupt | /ˈbæŋkrʌpt/ | n. / adj. | 破产者　adj. 破产的；完全丧失的 |
+| 641 | bankruptcy | /ˈbæŋkrʌptsi/ | n. | 破产 |
+| 642 | deficit | /ˈdefɪsɪt/ | n. | 赤字，逆差，亏损 |
+| 643 | disrupt | /dɪsˈrʌpt/ | v. | 扰乱；分裂，瓦解；中断；彻底改变结构 |
+| 644 | interrupt | /ˌɪntəˈrʌpt/ | v. | 打断；打扰；使暂停 |
