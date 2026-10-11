@@ -673,3 +673,85 @@ id,word,phonetic,pos,meaning,day,section
 672,unload,/ʌnˈləʊd/,v.,卸货；取下；取出,Day10,八、揭露、掩盖相关
 673,unfold,/ʌnˈfəʊld/,v.,打开，呈现；发展，发生（fold：折叠，褶皱）,Day10,八、揭露、掩盖相关
 674,fold,/fəʊld/,v. / n.,折叠，交叉，倒闭，包裹　n. 褶皱，山谷,Day10,八、揭露、掩盖相关
+675,substance,/ˈsʌbstəns/,n.,物质；实质；主旨,Day11,一、物质与实例
+676,substantial,/səbˈstænʃl/,adj.,大量的；牢固的,Day11,一、物质与实例
+677,instance,/ˈɪnstəns/,n. / v.,例子，实例　v. 举…为例,Day11,一、物质与实例
+678,quote,/kwəʊt/,v. / n.,引用；引述　n. 原话，引语,Day11,一、物质与实例
+679,quotation,/kwəʊˈteɪʃn/,n.,引用；（商业）行情,Day11,一、物质与实例
+680,withstand,/wɪðˈstænd/,v.,承受；抵住,Day11,二、取回与拿取
+681,withdraw,/wɪðˈdrɔː/,v.,（使）撤回，收回；提，取（银行账户中的款）,Day11,二、取回与拿取
+682,drawer,/drɔː(r)/,n.,抽屉,Day11,二、取回与拿取
+683,fetch,/fetʃ/,v.,（去）拿来；（去）请来,Day11,二、取回与拿取
+684,distant,/ˈdɪstənt/,adj.,有距离的；不同的；遥远的,Day11,三、距离与即时
+685,distance,/ˈdɪstəns/,n.,距离,Day11,三、距离与即时
+686,constant,/ˈkɒnstənt/,adj.,不断的；重复的；固定的，不变的,Day11,三、距离与即时
+687,consistent,/kənˈsɪstənt/,adj.,连续的；一贯的，一致的,Day11,三、距离与即时
+688,instant,/ˈɪnstənt/,n. / adj.,瞬间，顷刻　adj. 立即的；速溶的,Day11,三、距离与即时
+689,instantaneous,/ˌɪnstənˈteɪniəs/,adj.,即时的；瞬间的,Day11,三、距离与即时
+690,immediate,/ɪˈmiːdiət/,adj.,立刻的，即时的；（地方）紧邻的,Day11,三、距离与即时
+691,immediately,/ɪˈmiːdiətli/,adv.,立即；接近；紧接地,Day11,三、距离与即时
+692,prompt,/prɒmpt/,adj. / v.,立即的，及时的　v. 促使，导致；激励,Day11,三、距离与即时
+693,constitute,/ˈkɒnstɪtjuːt/,v.,组成，构成；设立（词根 stitu：站）,Day11,四、“stitu”与替代机构
+694,constitution,/ˌkɒnstɪˈtjuːʃn/,n.,宪法，章程,Day11,四、“stitu”与替代机构
+695,substitute,/ˈsʌbstɪtjuːt/,n. / v.,替代品　v. （以…）代替，取代,Day11,四、“stitu”与替代机构
+696,replace,/rɪˈpleɪs/,v.,代替；取代,Day11,四、“stitu”与替代机构
+697,replacement,/rɪˈpleɪsmənt/,n.,替换；替代品,Day11,四、“stitu”与替代机构
+698,institute,/ˈɪnstɪtjuːt/,n. / v.,学院；学会；协会　v. 制定，创立,Day11,四、“stitu”与替代机构
+699,institution,/ˌɪnstɪˈtjuːʃn/,n.,机构团体；制度,Day11,四、“stitu”与替代机构
+700,institutional,/ˌɪnstɪˈtjuːʃənl/,adj.,机构的；慈善机构的,Day11,四、“stitu”与替代机构
+701,separate,/ˈseprət/ adj.；/ˈseprəreɪt/ v.,v. / adj.,（使）分开；区别　adj. 单独的；不同的,Day11,五、分开与部门
+702,separation,/ˌsepəˈreɪʃn/,n.,分离；分割；隔离,Day11,五、分开与部门
+703,sector,/ˈsektə(r)/,n.,部门，领域，行业,Day11,五、分开与部门
+704,section,/ˈsekʃn/,n.,部分；节；阶层；部门,Day11,五、分开与部门
+705,segment,/ˈseɡmənt/,n. / v.,部分；（水果的）瓣　v. 划分（分开(se)个(g)门(m)）,Day11,五、分开与部门
+706,semester,/sɪˈmestə(r)/,n.,学期,Day11,五、分开与部门
+707,term,/tɜːm/,n.,学期；术语；任期,Day11,五、分开与部门
+708,apart,/əˈpɑːt/,adv. / adj.,相隔地，分开地；分离的　adj. 隔离的,Day11,五、分开与部门
+709,apartment,/əˈpɑːtmənt/,n.,公寓,Day11,五、分开与部门
+710,department,/dɪˈpɑːtmənt/,n.,部门，系,Day11,五、分开与部门
+711,particle,/ˈpɑːtɪkl/,n.,微粒；极小量,Day11,五、分开与部门
+712,depart,/dɪˈpɑːt/,v.,离开；离职，出发,Day11,六、离开与偏见
+713,departure,/dɪˈpɑːtʃə(r)/,n.,离开；起程；出发,Day11,六、离开与偏见
+714,partial,/ˈpɑːʃl/,adj.,部分的，局部的；偏袒的,Day11,六、离开与偏见
+715,prejudice,/ˈpredʒudɪs/,n. / v.,偏见；歧视　v. 使有偏见,Day11,六、离开与偏见
+716,bias,/ˈbaɪəs/,n. / v.,偏心，偏见　v. 使存偏见；使倾向一方,Day11,六、离开与偏见
+717,neutral,/ˈnjuːtrəl/,adj. / n.,中立的；持平的；中性的　n. 中立者；中立国,Day11,六、离开与偏见
+718,independent,/ˌɪndɪˈpendənt/,adj.,独立的；自主的；公正的；私营的,Day11,六、离开与偏见
+719,independence,/ˌɪndɪˈpendəns/,n.,独立；自主,Day11,六、离开与偏见
+720,acute,/əˈkjuːt/,adj.,严重的；敏锐的；急性的,Day11,七、严重与悲痛
+721,severe,/sɪˈvɪə(r)/,adj.,十分严重的，极为恶劣的，严峻的,Day11,七、严重与悲痛
+722,grave,/ɡreɪv/,n. / adj.,墓穴，坟墓　adj. 严重的；严肃的,Day11,七、严重与悲痛
+723,gravity,/ˈɡrævəti/,n.,严重性；严肃；重力,Day11,七、严重与悲痛
+724,grieve,/ɡriːv/,v.,感到悲痛，使…伤心,Day11,七、严重与悲痛
+725,grief,/ɡriːf/,n.,悲伤，悲痛,Day11,七、严重与悲痛
+726,relieve,/rɪˈliːv/,v.,缓解，减轻,Day11,七、严重与悲痛
+727,relief,/rɪˈliːf/,n.,轻松；减轻，缓和；救济品,Day11,七、严重与悲痛
+728,belief,/bɪˈliːf/,n.,信仰；相信；看法；信心,Day11,七、严重与悲痛
+729,grateful,/ˈɡreɪtfl/,adj.,感激的，感谢的（同thankful）,Day11,八、感激与打磨
+730,gratitude,/ˈɡrætɪtjuːd/,n.,感激,Day11,八、感激与打磨
+731,grant,/ɡrɑːnt/,n. / v.,拨款　v. 授予；准予；承认,Day11,八、感激与打磨
+732,grind,/ɡraɪnd/,v.,磨碎，磨光；用力挤压；摩擦,Day11,八、感激与打磨
+733,polish,/ˈpɒlɪʃ/,n. / v.,擦光剂　v. 擦亮，磨光,Day11,八、感激与打磨
+734,burst,/bɜːst/,v. / n.,爆炸；突然发生　n. 爆炸；突发,Day11,九、“爆炸”相关
+735,blast,/blɑːst/,n. / v.,爆炸；一阵（风），一股（气流）　v. 炸,Day11,九、“爆炸”相关
+736,blow,/bləʊ/,v. / n.,吹奏（哨子、乐器等）；吹出（某物）　n. 吹；（用手、武器等的）猛击；挫折,Day11,九、“爆炸”相关
+737,explode,/ɪkˈspləʊd/,v.,爆炸；激增；爆发,Day11,九、“爆炸”相关
+738,explosion,/ɪkˈspləʊʒn/,n.,爆炸；激增,Day11,九、“爆炸”相关
+739,explore,/ɪkˈsplɔː(r)/,v.,勘查；探索；研究,Day11,九、“爆炸”相关
+740,exploration,/ˌekspləˈreɪʃn/,n.,探索；勘察,Day11,九、“爆炸”相关
+741,exploit,/ɪkˈsplɔɪt/ v.；/ˈeksplɔɪt/ n.,v. / n.,利用，开采；开发　n. 壮举,Day11,九、“爆炸”相关
+742,bomb,/bɒm/,n. / v.,炸弹　v. 轰炸,Day11,九、“爆炸”相关
+743,bump,/bʌmp/,n. / v.,撞击（声）；肿块；隆起　v. （无意地）碰；撞,Day11,九、“爆炸”相关
+744,bumper,/ˈbʌmpə(r)/,n.,（汽车头尾的）保险杠,Day11,九、“爆炸”相关
+745,pump,/pʌmp/,n. / v.,抽水机；泵　v. 用泵输送；涌出,Day11,九、“爆炸”相关
+746,lump,/lʌmp/,n.,块；方糖；肿块；笨重的人,Day11,九、“爆炸”相关
+747,shot,/ʃɒt/,n.,射击；枪手；射门；发射（shoot：v. 射击）,Day11,九、“爆炸”相关
+748,fire,/ˈfaɪə(r)/,n. / v.,火　v. 解雇；射击,Day11,九、“爆炸”相关
+749,hire,/ˈhaɪə(r)/,v. / n.,雇用；租用　n. 租借，租用,Day11,九、“爆炸”相关
+750,retire,/rɪˈtaɪə(r)/,v.,退休；退出，离开（去安静的地方）,Day11,九、“爆炸”相关
+751,retirement,/rɪˈtaɪəmənt/,n.,退休；退休年龄；退休生活,Day11,九、“爆炸”相关
+752,employ,/ɪmˈplɔɪ/,v.,雇用；应用；运用；使用,Day11,九、“爆炸”相关
+753,employee,/ɪmˈplɔɪiː/,n.,受雇者；雇工；雇员,Day11,九、“爆炸”相关
+754,employer,/ɪmˈplɔɪə(r)/,n.,雇用者；雇主；老板,Day11,九、“爆炸”相关
+755,employment,/ɪmˈplɔɪmənt/,n.,工作；职业；受雇；就业,Day11,九、“爆炸”相关
+756,unemployment,/ˌʌnɪmˈplɔɪmənt/,n.,失业；失业人数,Day11,九、“爆炸”相关
