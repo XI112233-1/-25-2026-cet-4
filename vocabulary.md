@@ -1226,9 +1226,9 @@
 
 ---
 
-# 第十一天 · 共 82 词
+# 第十一天 · 共 153 词
 
-> 本日合计 **82** 个词条（序号 675–756）· 严格按发送顺序
+> 本日合计 **153** 个词条（序号 675–827）· 严格按发送顺序
 
 ## 一、物质与实例
 
@@ -1356,3 +1356,119 @@
 | 754 | employer | /ɪmˈplɔɪə(r)/ | n. | 雇用者；雇主；老板 |
 | 755 | employment | /ɪmˈplɔɪmənt/ | n. | 工作；职业；受雇；就业 |
 | 756 | unemployment | /ˌʌnɪmˈplɔɪmənt/ | n. | 失业；失业人数 |
+
+## 十、珍视与估价
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 757 | luxury | /ˈlʌkʃəri/ | n. | 奢侈品；奢华 |
+| 758 | luxurious | /lʌɡˈʒʊəriəs/ | adj. | 奢侈的，豪华的 |
+| 759 | treasure | /ˈtreʒə(r)/ | n. / v. | 心肝宝贝；财富　v. 珍惜；珍视 |
+| 760 | precious | /ˈpreʃəs/ | adj. | 珍贵的；珍惜的 |
+| 761 | beloved | /bɪˈlʌvd/ | adj. | 亲爱的；深受喜爱的 |
+| 762 | cherish | /ˈtʃerɪʃ/ | v. | 珍爱；钟爱 |
+| 763 | appreciate | /əˈpriːʃieɪt/ | v. | 重视；感激；欣赏 |
+| 764 | valuable | /ˈvæljuəbl/ | adj. | 有价值的；贵重的 |
+| 765 | costly | /ˈkɒstli/ | adj. | 昂贵的（同expensive） |
+| 766 | evaluate | /ɪˈvæljueɪt/ | v. | 评估；评价 |
+| 767 | evaluation | /ɪˌvæljuˈeɪʃn/ | n. | 评价；估计 |
+| 768 | estimate | /ˈestɪmeɪt/ v.；/ˈestɪmət/ n. | v. / n. | 估计　n. 估计 |
+| 769 | underestimate | /ˌʌndərˈestɪmeɪt/ v.；/ˌʌndərˈestɪmət/ n. | v. / n. | 低估　n. 轻视 |
+| 770 | reckon | /ˈrekən/ | v. | 估算；认为 |
+
+## 十一、接近与花费
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 771 | ultimate | /ˈʌltɪmət/ | adj. | 最后的；最终的 |
+| 772 | ultimately | /ˈʌltɪmətli/ | adv. | 最终；根本上 |
+| 773 | intimate | /ˈɪntɪmət/ | adj. / n. | 亲密的　n. 密友 |
+| 774 | approximate | /əˈprɒksɪmət/ adj.；/əˈprɒksɪmeɪt/ v. | adj. / v. | 大约的　v. 接近；估算 |
+| 775 | approximately | /əˈprɒksɪmətli/ | adv. | 大约；大概 |
+| 776 | approach | /əˈprəʊtʃ/ | v. / n. | 接近　n. 接近；方法 |
+| 777 | expend | /ɪkˈspend/ | v. | 花费；消耗 |
+| 778 | expense | /ɪkˈspens/ | n. | 花费；费用 |
+| 779 | expenditure | /ɪkˈspendɪtʃə(r)/ | n. | 花费；支出 |
+
+## 十二、cap- 能力与捕获
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 780 | capital | /ˈkæpɪtl/ | n. | 首都；资本；大写字母 |
+| 781 | capitalist | /ˈkæpɪtəlɪst/ | n. / adj. | 资本家　adj. 资本主义的 |
+| 782 | captain | /ˈkæptɪn/ | n. / v. | 首领　v. 船长；机长 |
+| 783 | capable | /ˈkeɪpəbl/ | adj. | 有能力的；有才能的 |
+| 784 | capability | /ˌkeɪpəˈbɪləti/ | n. | 能力；才能 |
+| 785 | capacity | /kəˈpæsəti/ | n. | 容量；能力 |
+| 786 | capture | /ˈkæptʃə(r)/ | v. / n. | 捕获　n. （被）捕获 |
+
+## 十三、居所与线路
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 787 | cabin | /ˈkæbɪn/ | n. | 小木屋；机舱 |
+| 788 | cabinet | /ˈkæbɪnət/ | n. | 储物柜；内阁 |
+| 789 | cable | /ˈkeɪbl/ | n. | 缆绳；电缆 |
+| 790 | cattle | /ˈkætl/ | n. | 牲畜；家禽 |
+| 791 | wire | /ˈwaɪə(r)/ | n. / v. | 金属线；电线　v. 接通电源 |
+| 792 | wireless | /ˈwaɪələs/ | n. / adj. | 无线电收音机　adj. 无线的 |
+
+## 十四、起源与资源
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 793 | region | /ˈriːdʒən/ | n. | 地区；（身体）部位 |
+| 794 | regional | /ˈriːdʒənl/ | adj. | 地区的；区域的 |
+| 795 | origin | /ˈɒrɪdʒɪn/ | n. | 起源；源头 |
+| 796 | original | /əˈrɪdʒənl/ | adj. | 最初的 |
+| 797 | originate | /əˈrɪdʒɪneɪt/ | v. | 起源；创建 |
+| 798 | source | /sɔːs/ | n. / v. | 来源；出处　v. 从某地获得 |
+| 799 | resource | /rɪˈsɔːs/ | n. | 资源；财力 |
+| 800 | derive | /dɪˈraɪv/ | v. | 源于；获得 |
+
+## 十五、夺取与奋斗
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 801 | deprive | /dɪˈpraɪv/ | v. | 剥夺；掠夺 |
+| 802 | seize | /siːz/ | v. | 抓住；占领 |
+| 803 | rob | /rɒb/ | v. | 抢劫；剥夺 |
+| 804 | robbery | /ˈrɒbəri/ | n. | 抢劫；掠夺 |
+| 805 | rub | /rʌb/ | v. | 擦；揉搓 |
+| 806 | thrive | /θraɪv/ | v. | 兴旺；繁荣 |
+| 807 | strive | /straɪv/ | v. | 努力；奋斗 |
+| 808 | effort | /ˈefət/ | n. | 努力 |
+
+## 十六、记录与听众
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 809 | accord | /əˈkɔːd/ | v. / n. | 一致；符合　n. 一致；协议 |
+| 810 | according | /əˈkɔːdɪŋ/ | n. | 协议；条约 |
+| 811 | record | /ˈrekɔːd/ n.；/rɪˈkɔːd/ v. | n. / v. | 记录；记载　v. 记录；录音 |
+| 812 | recorder | /rɪˈkɔːdə(r)/ | n. | 记录者；录音机 |
+| 813 | audio | /ˈɔːdiəʊ/ | adj. | 声音的；录音的 |
+| 814 | audience | /ˈɔːdiəns/ | n. | 听众；观众 |
+| 815 | echo | /ˈekəʊ/ | n. / v. | 回声　v. 发出回声；附和 |
+
+## 十七、看待与区分
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 816 | regard | /rɪˈɡɑːd/ | v. / n. | 认为　n. 致意；问候 |
+| 817 | regarding | /rɪˈɡɑːdɪŋ/ | prep. | 关于 |
+| 818 | regardless | /rɪˈɡɑːdləs/ | adv. | 不顾一切地；不管怎样 |
+| 819 | distinguish | /dɪˈstɪŋɡwɪʃ/ | v. | 区分；辨别 |
+| 820 | distinct | /dɪˈstɪŋkt/ | adj. | 有区别的；明显的 |
+| 821 | distinction | /dɪˈstɪŋkʃn/ | n. | 差别；不同 |
+| 822 | difference | /ˈdɪfrəns/ | n. | 差别；不同 |
+
+## 十八、刺灭与直觉
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 823 | extinguish | /ɪkˈstɪŋɡwɪʃ/ | v. | 熄灭；消灭 |
+| 824 | instinct | /ˈɪnstɪŋkt/ | n. | 本能；直觉 |
+| 825 | sting | /stɪŋ/ | v. / n. | 刺；蛰　n. 刺；痛苦 |
+| 826 | pierce | /pɪəs/ | v. | 刺穿；刺破 |
+| 827 | thrust | /θrʌst/ | v. / n. | 猛推；冲　n. 要点；刺 |
