@@ -826,3 +826,65 @@ id,word,phonetic,pos,meaning,day,section
 825,sting,/stɪŋ/,v. / n.,刺；蛰　n. 刺；痛苦,Day11,十八、刺灭与直觉
 826,pierce,/pɪəs/,v.,刺穿；刺破,Day11,十八、刺灭与直觉
 827,thrust,/θrʌst/,v. / n.,猛推；冲　n. 要点；刺,Day11,十八、刺灭与直觉
+828,observe,/əbˈzɜːv/,v.,观察，遵守，评论评说（扩：observation n. 观察，评论）,Day11,十九、观察与保护
+829,reserve,/rɪˈzɜːv/,v. / n.,预定，保留　n. 储存量，保护区（扩：reservation n. 保留，预订）,Day11,十九、观察与保护
+830,deserve,/dɪˈzɜːv/,v.,值得，应受，应得,Day11,十九、观察与保护
+831,conservative,/kənˈsɜːvətɪv/,n. / adj.,保守派；保守的人　adj. 保守的，守旧的（扩：conserve v. 储存，保存）,Day11,十九、观察与保护
+832,preserve,/prɪˈzɜːv/,v. / n.,保护，保留，保存　n. 专属领域；独有活动；动物保护区,Day11,十九、观察与保护
+833,protect,/prəˈtekt/,v.,保护，防护，防守,Day11,十九、观察与保护
+834,detect,/dɪˈtekt/,v.,发现；查明（扩：detection n. 侦查，探测，察觉）,Day11,十九、观察与保护
+835,scout,/skaʊt/,v. / n.,侦查　n. 侦察兵,Day11,十九、观察与保护
+836,prevent,/prɪˈvent/,v.,阻止，妨碍,Day11,二十、阻止相关
+837,forbid,/fəˈbɪd/,v.,禁止；不准,Day11,二十、阻止相关
+838,bid,/bɪd/,v. / n.,出价，投标,Day11,二十、阻止相关
+839,ban,/bæn/,n. / v.,禁令　v. 禁止,Day11,二十、阻止相关
+840,banner,/ˈbænə(r)/,n.,标语，横幅,Day11,二十、阻止相关
+841,prohibit,/prəˈhɪbɪt/,v.,阻止；阻拦,Day11,二十、阻止相关
+842,exhibit,/ɪɡˈzɪbɪt/,n. / v.,展览品　v. 展览；表现,Day11,二十一、展览与展示
+843,display,/dɪˈspleɪ/,n. / v.,陈列；展览；表现,Day11,二十一、展览与展示
+844,freeze,/friːz/,v.,冻结，使结冰（Frozen food 冷冻食品）,Day11,二十二、冻结与气流
+845,breath,/breθ/,n.,呼吸，微风,Day11,二十二、冻结与气流
+846,breeze,/briːz/,n.,清风；微风,Day11,二十二、冻结与气流
+847,squeeze,/skwiːz/,v. / n.,挤，压，捏,Day11,二十二、冻结与气流
+848,plot,/plɒt/,v. / n.,密谋；策划　n. 故事情节；策划,Day11,二十三、密谋与充气
+849,flat,/flæt/,adj. / n.,平坦的；平淡的　n. 公寓；单元房,Day11,二十三、密谋与充气
+850,inflate,/ɪnˈfleɪt/,v.,使充气；膨胀,Day11,二十三、密谋与充气
+851,inflation,/ɪnˈfleɪʃn/,n.,通货膨胀；充气,Day11,二十三、密谋与充气
+852,dense,/dens/,adj.,密集的；稠密的,Day11,二十四、密集与收缩
+853,density,/ˈdensəti/,n.,密度,Day11,二十四、密集与收缩
+854,condense,/kənˈdens/,v.,压缩,Day11,二十四、密集与收缩
+855,shrink,/ʃrɪŋk/,v.,起皱；缩水；减少,Day11,二十四、密集与收缩
+856,fade,/feɪd/,v.,褪色；逐渐消失,Day11,二十四、密集与收缩
+857,compact,/kəmˈpækt/,adj.,紧密的；紧凑的,Day11,二十四、密集与收缩
+858,impact,/ˈɪmpækt/ n.；/ɪmˈpækt/ v.,n. / v.,碰撞；影响　v. 撞击；影响,Day11,二十五、影响与流利
+859,influence,/ˈɪnfluəns/,n. / v.,影响　v. 影响,Day11,二十五、影响与流利
+860,influential,/ˌɪnfluˈenʃl/,adj.,有影响的；有权势的,Day11,二十五、影响与流利
+861,influenza,/ˌɪnfluˈenzə/,n.,流行性感冒（flu）,Day11,二十五、影响与流利
+862,exert,/ɪɡˈzɜːt/,v.,施加；运用,Day11,二十五、影响与流利
+863,fluent,/ˈfluːənt/,adj.,流利的,Day11,二十五、影响与流利
+864,fluency,/ˈfluːənsi/,n.,流利；熟练,Day11,二十五、影响与流利
+865,affluent,/ˈæfluənt/,adj.,富裕的；富足的,Day11,二十五、影响与流利
+866,lack,/læk/,n. / v.,缺乏；短缺　v. 短缺,Day11,二十六、缺乏与充足
+867,scarce,/skeəs/,adj.,缺乏的；不足的,Day11,二十六、缺乏与充足
+868,rare,/reə(r)/,adj.,稀少的；珍贵的,Day11,二十六、缺乏与充足
+869,rarely,/ˈreəli/,adv.,罕有；很少,Day11,二十六、缺乏与充足
+870,adequate,/ˈædɪkwət/,adj.,充足的；足够的,Day11,二十六、缺乏与充足
+871,adequacy,/ˈædɪkwəsi/,n.,足够,Day11,二十六、缺乏与充足
+872,equivalent,/ɪˈkwɪvələnt/,n. / adj.,相等的东西　adj. 相等的,Day11,二十六、缺乏与充足
+873,equivalence,/ɪˈkwɪvələns/,n.,相等；等值,Day11,二十六、缺乏与充足
+874,tense,/tens/,adj. / v. / n.,紧张的　v. 紧张　n. 时态,Day11,二十七、紧张与感觉
+875,intensive,/ɪnˈtensɪv/,adj.,集中的；加强的,Day11,二十七、紧张与感觉
+876,intense,/ɪnˈtens/,adj.,紧张的；激烈的,Day11,二十七、紧张与感觉
+877,intensity,/ɪnˈtensəti/,n.,紧张；强烈,Day11,二十七、紧张与感觉
+878,sense,/sens/,n. / v.,感觉；见识　v. 感觉到,Day11,二十七、紧张与感觉
+879,sensitive,/ˈsensətɪv/,adj.,敏感的；脆弱的,Day11,二十七、紧张与感觉
+880,nonsense,/ˈnɒnsns/,n.,废话；胡说,Day11,二十七、紧张与感觉
+881,sensible,/ˈsensəbl/,adj.,明智的；意识到的,Day11,二十七、紧张与感觉
+882,mental,/ˈmentl/,adj.,精神的；思想的,Day11,二十八、心智与关键
+883,fundamental,/ˌfʌndəˈmentl/,adj. / n.,基础的；根本的　n. （pl.）基本原则,Day11,二十八、心智与关键
+884,fatal,/ˈfeɪtl/,adj.,致命的,Day11,二十八、心智与关键
+885,total,/ˈtəʊtl/,adj. / n.,总的；全部的　n. 总数；总计,Day11,二十八、心智与关键
+886,digital,/ˈdɪdʒɪtl/,adj.,数字的；数码的,Day11,二十八、心智与关键
+887,talent,/ˈtælənt/,n.,天资；天才,Day11,二十八、心智与关键
+888,vital,/ˈvaɪtl/,adj.,至关重要的；必不可少的,Day11,二十八、心智与关键
+889,crucial,/ˈkruːʃl/,adj.,至关重要的；关键性的,Day11,二十八、心智与关键
