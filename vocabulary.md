@@ -1584,3 +1584,262 @@
 | 887 | talent | /ˈtælənt/ | n. | 天资；天才 |
 | 888 | vital | /ˈvaɪtl/ | adj. | 至关重要的；必不可少的 |
 | 889 | crucial | /ˈkruːʃl/ | adj. | 至关重要的；关键性的 |
+
+---
+
+# 第十二天 · 共 158 词
+
+> 本日合计 **158** 个词条（序号 890–1047）· 严格按发送顺序
+
+## 一、-tain 与污染
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 890 | attain | /əˈteɪn/ | v. | 达到，获得（扩：attainment n. 达到，成就） |
+| 891 | contain | /kənˈteɪn/ | v. | 包含，控制，容纳（扩：container n. 容器） |
+| 892 | contaminate | /kənˈtæmɪneɪt/ | v. | 弄脏，污染，玷污（扩：contamination n. 污染，毒害，玷污） |
+| 893 | dirty | /ˈdɜːti/ | adj. / v. | 污秽的，下流的　v. 弄脏 |
+| 894 | pollution | /pəˈluːʃn/ | n. | 污染，污染物，垃圾 |
+| 895 | retain | /rɪˈteɪn/ | v. | 保持，保留，雇，记住 |
+| 896 | maintain | /meɪnˈteɪn/ | v. | 维持，维修，坚持认为 |
+| 897 | maintenance | /ˈmeɪntənəns/ | n. | 维护，保养，维持 |
+| 898 | entertain | /ˌentəˈteɪn/ | v. | 娱乐，款待 |
+| 899 | entertainment | /ˌentəˈteɪnmənt/ | n. | 娱乐活动，招待 |
+| 900 | sustain | /səˈsteɪn/ | v. | 维持；支持；承担 |
+| 901 | sustainable | /səˈsteɪnəbl/ | adj. | 可持续的 |
+| 902 | obtain | /əbˈteɪn/ | v. | 获得，得到 |
+
+## 二、出现与紧急
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 903 | appear | /əˈpɪə(r)/ | v. | 显得，似乎，出现，起源（扩：disappear v. 消失，失踪） |
+| 904 | appearance | /əˈpɪərəns/ | n. | 外貌，外观，外表，抵达，到来 |
+| 905 | vanish | /ˈvænɪʃ/ | v. | 突然消失 |
+| 906 | emerge | /ɪˈmɜːdʒ/ | v. | 浮现，出现，兴起 |
+| 907 | emergency | /ɪˈmɜːdʒənsi/ | n. | 紧急情况，非常时刻 |
+| 908 | urge | /ɜːdʒ/ | v. | 主张，催促，强烈要求，鼓励（扩：urgent adj. 紧急的，急迫的） |
+
+## 三、海洋与病菌
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 909 | marine | /məˈriːn/ | adj. | 海洋的，海产的，海事的 |
+| 910 | bacteria | /bækˈtɪəriə/ | n. | 细菌 |
+| 911 | virus | /ˈvaɪrəs/ | n. | 病毒 |
+| 912 | germ | /dʒɜːm/ | n. | 病菌，细菌 |
+| 913 | immune | /ɪˈmjuːn/ | adj. | 有免疫力的，免除的，豁免的 |
+
+## 四、para相关
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 914 | balance | /ˈbæləns/ | v. / n. | 平衡 |
+| 915 | parallel | /ˈpærəlel/ | n. / adj. / v. | 平行线，相似处　adj. 平行的；类似的　v. 与…相似，比得上 |
+| 916 | paradox | /ˈpærədɒks/ | n. | 矛盾的人/事；悖论 |
+| 917 | parade | /pəˈreɪd/ | n. / v. | 游行，阅兵，炫耀　v. 炫耀，游行 |
+| 918 | march | /mɑːtʃ/ | v. / n. | 行军；行进　n. 行程，示威游行（March：3月） |
+
+## 五、虫木与木材
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 919 | bug | /bʌɡ/ | n. | 虫子，小病 |
+| 920 | insect | /ˈɪnsekt/ | n. | 昆虫 |
+| 921 | worm | /wɜːm/ | n. | 蠕虫 |
+| 922 | wooden | /ˈwʊdn/ | adj. | 木质的，呆板的 |
+| 923 | timber | /ˈtɪmbə(r)/ | n. | 木材，大木料 |
+
+## 六、追逐与运输
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 924 | chase | /tʃeɪs/ | v. | 努力获取，追赶，追求 |
+| 925 | purchase | /ˈpɜːtʃəs/ | v. | 购买，采购 |
+| 926 | pursue | /pəˈsjuː/ | v. | 追求，致力于，执行，贯彻（扩：pursuit n. 追求，追赶，消遣） |
+| 927 | translate | /trænsˈleɪt/ | v. | 翻译，解释说明（扩：translation n. 翻译，译文） |
+| 928 | transplant | /trænsˈplɑːnt/ | v. / n. | 移植 |
+| 929 | transform | /trænsˈfɔːm/ | v. | 使变形，使改观（扩：transformer 变形金刚） |
+| 930 | platform | /ˈplætfɔːm/ | n. | 平台，站台，纲领 |
+| 931 | transport | /trænˈspɔːt/ v.；/ˈtrænspɔːt/ n. | v. / n. | 运输，传输，流放　n. 交通运输系统，运输工具，激动（扩：transportation n. 运输，交通方式） |
+| 932 | transaction | /trænˈzækʃn/ | n. | 交易，业务，办理 |
+| 933 | transfer | /trænsˈfɜː(r)/ | v. / n. | 搬运，转移　n. 搬迁；换乘 |
+| 934 | transit | /ˈtrænzɪt/ | v. / n. | 通过，转运　n. 运输，运送（扩：transition n. 转变，转换） |
+
+## 七、明显与证据
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 935 | transparent | /trænsˈpærənt/ | adj. | 透明的，易懂的 |
+| 936 | apparent | /əˈpærənt/ | adj. | 显然的，表面上的 |
+| 937 | obvious | /ˈɒbviəs/ | adj. | 明显的，显然的（扩：obviously adv. 显然，明显地） |
+| 938 | evident | /ˈevɪdənt/ | adj. | 明显的，显然的 |
+| 939 | evidence | /ˈevɪdəns/ | n. | 证据，证词 |
+
+## 八、痕迹与轨道
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 940 | trace | /treɪs/ | n. / v. | 痕迹　v. 追溯 |
+| 941 | trail | /treɪl/ | n. / v. | 踪迹，痕迹　v. 跟踪 |
+| 942 | rail | /reɪl/ | n. / v. | 栏杆，铁轨　v. 怒斥 |
+| 943 | track | /træk/ | v. / n. | 跟踪，追踪　n. 轨道，踪迹 |
+| 944 | orbit | /ˈɔːbɪt/ | n. / v. | 轨道　v. 沿轨道运行 |
+
+## 九、繁荣与夸耀
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 945 | boom | /buːm/ | v. / n. | 隆隆声，繁荣 |
+| 946 | bloom | /bluːm/ | n. / v. | 花　v. 开花 |
+| 947 | blossom | /ˈblɒsəm/ | n. / v. | 花朵　v. 开花 |
+| 948 | gloom | /ɡluːm/ | n. | 忧郁，幽暗（扩：gloomy adj. 郁闷的，阴暗的） |
+| 949 | boost | /buːst/ | v. / n. | 促进，推动　n. 促进；宣扬 |
+| 950 | boast | /bəʊst/ | v. / n. | 自夸　n. 夸耀 |
+| 951 | brag | /bræɡ/ | v. | 吹嘘，自吹自擂 |
+
+## 十、成熟与收成
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 952 | raw | /rɔː/ | adj. | 生的，未加工的，不熟练的，没有经验的 |
+| 953 | ripe | /raɪp/ | adj. | 熟的，时机成熟的 |
+| 954 | reap | /riːp/ | v. | 取得，收割，收获 |
+| 955 | harvest | /ˈhɑːvɪst/ | n. / v. | 收获，成果　v. 收割，采集 |
+| 956 | yield | /jiːld/ | n. / v. | 产量，利润　v. 出产，屈服 |
+| 957 | mature | /məˈtʃʊə(r)/ | adj. / v. | 成熟的，成年的，技艺精湛的　v. 成熟，成长 |
+| 958 | plough | /plaʊ/ | n. / v. | 犁　v. 犁，耕 |
+| 959 | irrigation | /ˌɪrɪˈɡeɪʃn/ | n. | 灌溉（扩：irrigate v. 灌溉） |
+
+## 十一、支配与乏味
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 960 | dominate | /ˈdɒmɪneɪt/ | v. | 支配，控制，俯视（扩：domination n. 统治，控制） |
+| 961 | domestic | /dəˈmestɪk/ | adj. | 家庭的，国内的 |
+| 962 | chore | /tʃɔː(r)/ | n. | 家庭杂务，日常事务 |
+| 963 | dull | /dʌl/ | adj. | 枯燥的，迟钝的，萧条的，不鲜明的 |
+| 964 | dumb | /dʌm/ | adj. | 愚蠢的，哑的，无言的 |
+| 965 | tedious | /ˈtiːdiəs/ | adj. | 单调的，乏味的（扩：tedium n. 单调，厌烦） |
+
+## 十二、计划与路线
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 966 | schedule | /ˈʃedjuːl/ | n. / v. | 计划，日程安排，时间表　v. 安排，预定 |
+| 967 | scheme | /skiːm/ | n. | 计划，方案，阴谋 |
+| 968 | agenda | /əˈdʒendə/ | n. | 议程表，议事日程 |
+| 969 | routine | /ruːˈtiːn/ | n. | 常规，日常工作，例行程序 |
+| 970 | route | /ruːt/ | n. | 路线，途径，渠道 |
+| 971 | passage | /ˈpæsɪdʒ/ | n. | 通过，通道，文章（扩：passenger n. 乘客） |
+
+## 十三、内外
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 972 | interior | /ɪnˈtɪəriə(r)/ | n. / adj. | 内部　adj. 内部的 |
+| 973 | exterior | /ɪkˈstɪəriə(r)/ | n. / adj. | 外部　adj. 外部的 |
+| 974 | external | /ɪkˈstɜːnl/ | adj. | 外部的 |
+| 975 | internal | /ɪnˈtɜːnl/ | adj. | 内部的 |
+| 976 | inner | /ˈɪnə(r)/ | adj. | 内部的；里面的；内心的 |
+
+## 十四、媒介与定位
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 977 | media | /ˈmiːdiə/ | n. | 媒介 |
+| 978 | medium | /ˈmiːdiəm/ | adj. / n. | 中等的，中号的　n. 媒介，方法 |
+| 979 | intermediate | /ˌɪntəˈmiːdiət/ | adj. / n. | 中等的，中间的，中级的　n. 中级学生 |
+| 980 | local | /ˈləʊkl/ | adj. / n. | 当地的，地方性的　n. 本地人 |
+| 981 | locate | /ləʊˈkeɪt/ | v. | 探明，定位，位于（扩：location n. 位置，场所） |
+| 982 | site | /saɪt/ | v. / n. | 使坐落在　n. 位置，网站 |
+| 983 | situate | /ˈsɪtʃueɪt/ | v. | 位于，使坐落于（扩：situation 情况；形势） |
+| 984 | cite | /saɪt/ | v. | 列举，引用（扩：citation n. 论文，引用，引证） |
+| 985 | bite | /baɪt/ | v. / n. | 咬，上钩　n. 咬伤，寒冷 |
+| 986 | website | /ˈwebsaɪt/ | n. | 网站 |
+| 987 | web | /web/ | n. | 网络，蜘蛛网，错综复杂的事物 |
+| 988 | click | /klɪk/ | v. / n. | 点击，单击，豁然开朗　n. 单击，咔哒声 |
+
+## 十五、-pose 相关
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 989 | pose | /pəʊz/ | n. / v. | 姿势　v. 摆姿势，造成，引起 |
+| 990 | posture | /ˈpɒstʃə(r)/ | n. | 姿势，态度，立场 |
+| 991 | expose | /ɪkˈspəʊz/ | v. | 暴露，接触（扩：exposure n. 暴露；揭发；亮相） |
+| 992 | dispose | /dɪˈspəʊz/ | v. | 处理，布置 |
+| 993 | rid | /rɪd/ | v. / adj. | 摆脱，丢弃，除掉　adj. 摆脱的，去掉的 |
+| 994 | suppose | /səˈpəʊz/ | v. | 假设，设想 |
+| 995 | positive | /ˈpɒzətɪv/ | adj. / n. | 积极的，乐观的　n. 优点；优势 |
+| 996 | deposit | /dɪˈpɒzɪt/ | n. | 存款，沉淀物 |
+| 997 | compose | /kəmˈpəʊz/ | v. | 组成，构成，作曲 |
+| 998 | composition | /ˌkɒmpəˈzɪʃn/ | n. | 作品，作曲 |
+| 999 | component | /kəmˈpəʊnənt/ | n. | 组成部分，成分 |
+| 1000 | impose | /ɪmˈpəʊz/ | v. | 将…强加于，征税 |
+| 1001 | oppose | /əˈpəʊz/ | v. | 反对（扩：opposition n. 反对） |
+| 1002 | opposite | /ˈɒpəzɪt/ | adj. | 相反的 |
+| 1003 | rival | /ˈraɪvl/ | n. / v. | 对手　v. 比得上 |
+| 1004 | position | /pəˈzɪʃn/ | n. / v. | 位置，地位　v. 使位于 |
+| 1005 | propose | /prəˈpəʊz/ | v. | 建议，计划，求婚（订婚 engage；结婚 marriage；离婚 divorce；单身 single） |
+| 1006 | counsel | /ˈkaʊnsl/ | n. | 劝告，建议（扩：counselor n. 辅导顾问） |
+| 1007 | purpose | /ˈpɜːpəs/ | n. | 目的，意图 |
+
+## 十六、城乡与范围
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1008 | rural | /ˈrʊərəl/ | adj. | 乡村的，农村的 |
+| 1009 | agriculture | /ˈæɡrɪkʌltʃə(r)/ | n. | 农业，农学（扩：agricultural adj. 农业的，农用的） |
+| 1010 | urban | /ˈɜːbən/ | adj. | 城市的，市内的 |
+| 1011 | suburb | /ˈsʌbɜːb/ | n. | 郊区，市郊 |
+| 1012 | downtown | /ˌdaʊnˈtaʊn/ | n. / adj. | 市中心，闹市区　adj. 市中心的，闹市区的 |
+| 1013 | citizen | /ˈsɪtɪzn/ | n. | 公民，市民，居民 |
+| 1014 | civil | /ˈsɪvl/ | adj. | 公民的，民用的，文明的（扩：civilize v. 教化，使文明；civilization 文明） |
+| 1015 | cultural | /ˈkʌltʃərəl/ | adj. | 文化的 |
+| 1016 | civilian | /səˈvɪliən/ | n. | 平民，老百姓 |
+| 1017 | country | /ˈkʌntri/ | n. | 国家，农村（扩：countryside n. 农村；乡下） |
+| 1018 | county | /ˈkaʊnti/ | n. | 郡，县 |
+| 1019 | nationwide | /ˌneɪʃnˈwaɪd/ | adj. | 全国性的 |
+| 1020 | worldwide | /ˌwɜːldˈwaɪd/ | adj. | 世界各地的 |
+| 1021 | widespread | /ˈwaɪdspred/ | adj. | 传播广泛的，分布广的 |
+| 1022 | throughout | /θruːˈaʊt/ | prep. / adv. | 贯穿整个时期，遍及，到处 |
+| 1023 | continent | /ˈkɒntɪnənt/ | n. | 洲，大陆 |
+
+## 十七、环境与条件
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1024 | siege | /siːdʒ/ | n. | 围困，包围 |
+| 1025 | surround | /səˈraʊnd/ | n. / v. | 周围，环绕　v. 包围，环绕（扩：surroundings 环境） |
+| 1026 | surface | /ˈsɜːfɪs/ | n. / v. | 表面　v. 升到表面 |
+| 1027 | preface | /ˈprefəs/ | n. | 前言，序言 |
+| 1028 | climate | /ˈklaɪmət/ | n. | 气候，氛围，形势 |
+| 1029 | mood | /muːd/ | n. | 情绪，心情，气氛，语气 |
+| 1030 | atmosphere | /ˈætməsfɪə(r)/ | n. | 大气，气氛 |
+| 1031 | sphere | /sfɪə(r)/ | n. | 范围，领域，球体 |
+| 1032 | scope | /skəʊp/ | n. / v. | 范围，余地　v. 查明 |
+| 1033 | circumstance | /ˈsɜːkəmstəns/ | n. | 条件，环境，状况 |
+| 1034 | condition | /kənˈdɪʃn/ | n. | 状态，条件，状况 |
+| 1035 | conditional | /kənˈdɪʃənl/ | adj. / n. | 有条件的　n. 条件从句 |
+
+## 十八、循环与环形
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1036 | cycle | /ˈsaɪkl/ | n. / v. | 自行车，循环　v. 骑自行车，循环（扩：cycling v. 骑自行车） |
+| 1037 | recycle | /ˌriːˈsaɪkl/ | v. | 回收利用，再利用 |
+| 1038 | circle | /ˈsɜːkl/ | n. / v. | 圈，圈子，阶层　v. 环绕，画圈（扩：circular adj. 圆形的，环形的） |
+| 1039 | oval | /ˈəʊvl/ | n. / adj. | 椭圆形　adj. 椭圆形的 |
+| 1040 | circuit | /ˈsɜːkɪt/ | n. | 环形，环形路线 |
+| 1041 | circus | /ˈsɜːkəs/ | n. | 马戏团 |
+| 1042 | circulate | /ˈsɜːkjəleɪt/ | v. | 环流；循环；流传（扩：circulation n. 循环，传递，流通） |
+
+## 十九、背景与抗议
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1043 | setting | /ˈsetɪŋ/ | n. | 环境，背景，档位 |
+| 1044 | background | /ˈbækɡraʊnd/ | n. | 背景，幕后 |
+| 1045 | context | /ˈkɒntekst/ | n. | 背景，上下文 |
+| 1046 | contest | /ˈkɒntest/ | n. | 比赛，竞争（扩：contestant 比赛者，竞争者） |
+| 1047 | protest | /ˈprəʊtest/ n.；/prəˈtest/ v. | n. / v. | 抗议，反对 |
