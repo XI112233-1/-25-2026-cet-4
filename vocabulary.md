@@ -1843,3 +1843,244 @@
 | 1045 | context | /ˈkɒntekst/ | n. | 背景，上下文 |
 | 1046 | contest | /ˈkɒntest/ | n. | 比赛，竞争（扩：contestant 比赛者，竞争者） |
 | 1047 | protest | /ˈprəʊtest/ n.；/prəˈtest/ v. | n. / v. | 抗议，反对 |
+
+---
+
+# 第十三天 · 共 195 词
+
+> 本日合计 **195** 个词条（序号 1048–1242）· 严格按发送顺序
+
+## 一、指导指挥相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1048 | conduct | /kənˈdʌkt/ v.；/ˈkɒndʌkt/ n. | v. / n. | 执行；引导　n. 行为；操行（扩：conductor n. 指挥，列车长，售票员） |
+| 1049 | direct | /dəˈrekt/ | adj. / v. | 直接的　v. 管理，指导，把…对准 |
+| 1050 | direction | /dəˈrekʃn/ | n. | 方向，指挥 |
+| 1051 | instruct | /ɪnˈstrʌkt/ | v. | 命令，指挥，告知，传授（扩：instruction 命令，指示，吩咐） |
+| 1052 | command | /kəˈmɑːnd/ | v. / n. | 指挥，命令，控制　n. 指挥；命令 |
+| 1053 | commander | /kəˈmɑːndə(r)/ | n. | 指挥官 |
+| 1054 | military | /ˈmɪlətri/ | n. / adj. | 军方　adj. 军事的 |
+| 1055 | enemy | /ˈenəmi/ | n. | 敌人 |
+| 1056 | forth | /fɔːθ/ | adv. | 向前 |
+| 1057 | forthcoming | /ˌfɔːθˈkʌmɪŋ/ | adj. | 即将到来的，现成的 |
+| 1058 | forward | /ˈfɔːwəd/ | adj. / adv. / v. | 向前的　adv. 向前　v. 发送；促进 |
+| 1059 | forever | /fərˈevə(r)/ | adv. | 永远 |
+| 1060 | foremost | /ˈfɔːməʊst/ | adj. / adv. | 最先的，最重要的　adv. 首先 |
+| 1061 | foresee | /fɔːˈsiː/ | v. | 预见，预知 |
+| 1062 | oversee | /ˌəʊvəˈsiː/ | v. | 监督；监视 |
+| 1063 | overhead | /ˌəʊvəˈhed/ | adv. | 在头顶上 |
+| 1064 | forecast | /ˈfɔːkɑːst/ | v. / n. | 预测；预报 |
+| 1065 | cast | /kɑːst/ | v. / n. | 投，抛 |
+| 1066 | toss | /tɒs/ | v. / n. | 扔，抛，摇晃　n. 抛硬币决定；猛抬头 |
+| 1067 | broadcast | /ˈbrɔːdkɑːst/ | v. / n. | 播送，广播，散布，传播　n. 广播节目 |
+| 1068 | author | /ˈɔːθə(r)/ | n. | 作者，作家 |
+| 1069 | authority | /ɔːˈθɒrəti/ | n. | 权威，当局（扩：authorise/authorize v. 批准，许可，授权） |
+| 1070 | authentic | /ɔːˈθentɪk/ | adj. | 真正的，真实的 |
+| 1071 | sincere | /sɪnˈsɪə(r)/ | adj. | 真诚的，诚挚的 |
+| 1072 | genuine | /ˈdʒenjuɪn/ | adj. | 真正的，真诚的 |
+| 1073 | genius | /ˈdʒiːniəs/ | n. | 天才；天赋；才能；本领 |
+| 1074 | elite | /eɪˈliːt/ | n. / adj. | 精英，上层人士　adj. 杰出的，精英的 |
+
+## 二、老鼠相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1075 | democratic | /ˌdeməˈkrætɪk/ | adj. | 民主的，有民主精神的（扩：democracy n. 民主） |
+| 1076 | generate | /ˈdʒenəreɪt/ | v. | 产生，生产，引起（扩：generator n. 发电机） |
+| 1077 | generation | /ˌdʒenəˈreɪʃn/ | n. | 一代，一代人 |
+| 1078 | general | /ˈdʒenrəl/ | adj. | 普通的，一般的 |
+| 1079 | strategy | /ˈstrætədʒi/ | n. | 策略，行动计划 |
+| 1080 | strategic | /strəˈtiːdʒɪk/ | adj. | 战略性的，战略上的 |
+| 1081 | scratch | /skrætʃ/ | v. / n. | 抓，挠　n. 抓伤；挠痒 |
+| 1082 | sketch | /sketʃ/ | n. / v. | 素描，速写　v. 画素描；概述 |
+| 1083 | pinch | /pɪntʃ/ | n. | 捏，拧，掐 |
+| 1084 | claw | /klɔː/ | n. / v. | 爪　v. 抓，挠 |
+| 1085 | flaw | /flɔː/ | n. | 瑕疵，缺点，缺陷 |
+| 1086 | cater | /ˈkeɪtə(r)/ | v. | 迎合，满足需求 |
+| 1087 | category | /ˈkætəɡəri/ | n. | 种类，类别 |
+| 1088 | feed | /fiːd/ | v. | 喂养 |
+| 1089 | diet | /ˈdaɪət/ | n. / v. | 日常饮食　v. 节食（扩：dietary adj. 饮食的，饮食中的；n. 食谱） |
+| 1090 | catalog | /ˈkætəlɒɡ/ | n. / v. | 目录　v. 把…编入目录 |
+| 1091 | log | /lɒɡ/ | n. | 原木 |
+| 1092 | logic | /ˈlɒdʒɪk/ | n. | 思维方式，逻辑 |
+| 1093 | index | /ˈɪndeks/ | n. | 索引，指数，指标 |
+| 1094 | chat | /tʃæt/ | v. / n. | 聊天 |
+| 1095 | scatter | /ˈskætə(r)/ | v. | 播撒，散开，驱散 |
+
+## 三、ex相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1096 | exile | /ˈeksaɪl/ | v. / n. | 流放，排出 |
+| 1097 | exchange | /ɪksˈtʃeɪndʒ/ | v. / n. | 交换，互换，兑换 |
+| 1098 | expel | /ɪkˈspel/ | v. | 排出，驱逐出境 |
+| 1099 | compel | /kəmˈpel/ | v. | 强迫，迫使 |
+| 1100 | force | /fɔːs/ | n. / v. | 力量，暴力，武装部队　v. 强迫（扩：forceful adj. 强有力的） |
+| 1101 | workforce | /ˈwɜːkfɔːs/ | n. | 劳动力 |
+| 1102 | workshop | /ˈwɜːkʃɒp/ | n. | 车间，工厂 |
+| 1103 | enforce | /ɪnˈfɔːs/ | v. | 强迫 |
+| 1104 | reinforce | /ˌriːɪnˈfɔːs/ | v. | 加强，巩固，增援 |
+| 1105 | backup | /ˈbækʌp/ | n. | 支援，后援 |
+| 1106 | strength | /streŋθ/ | n. | 力量，强度，毅力，优势 |
+| 1107 | power | /ˈpaʊə(r)/ | n. / v. | 权力，能力，力量，政权，强国　v. 驱动，推动（扩：powerful adj. 有权势的，力量大的） |
+| 1108 | willpower | /ˈwɪlpaʊə(r)/ | n. | 意志力 |
+| 1109 | willing | /ˈwɪlɪŋ/ | adj. | 愿意的，自愿的 |
+| 1110 | volunteer | /ˌvɒlənˈtɪə(r)/ | n. / v. | 志愿者　v. 自愿做 |
+| 1111 | reluctant | /rɪˈlʌktənt/ | adj. | 不情愿的，勉强的（扩：reluctance n. 不情愿，勉强） |
+| 1112 | strain | /streɪn/ | n. / v. | 压力，重负，类型　v. 拉紧；收紧 |
+
+## 四、脱衣服相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1113 | clothe | /kləʊð/ | v. | 给…穿衣 |
+| 1114 | strip | /strɪp/ | v. | 脱光衣服，除去 |
+| 1115 | stripe | /straɪp/ | n. | 条纹，线索 |
+| 1116 | ribbon | /ˈrɪbən/ | n. | 丝带，绸带，带状物 |
+| 1117 | rip | /rɪp/ | v. | 撕开，裂开 |
+| 1118 | grip | /ɡrɪp/ | n. / v. | 紧握，紧抓 |
+| 1119 | string | /strɪŋ/ | n. / v. | 线，弦　v. 用线穿起来，悬挂 |
+| 1120 | thread | /θred/ | n. / v. | 思路，线索，螺纹　v. 穿线于，装好 |
+| 1121 | trap | /træp/ | v. / n. | 使陷入困境　n. 陷阱 |
+| 1122 | bait | /beɪt/ | n. / v. | 饵，诱饵　v. 下诱饵 |
+
+## 五、fair相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1123 | fair | /feə(r)/ | adj. / adv. / n. | 公平的，合理的　adv. 公平合理地　n. 集市 |
+| 1124 | fairly | /ˈfeəli/ | adv. | 公平地，相当地 |
+| 1125 | affair | /əˈfeə(r)/ | n. | 事情，事件 |
+| 1126 | business | /ˈbɪznəs/ | n. | 生意，工作 |
+| 1127 | payroll | /ˈpeɪrəʊl/ | n. | 工资名单 |
+| 1128 | trolley | /ˈtrɒli/ | n. | 手推车（超累—所以用手推车） |
+| 1129 | toll | /təʊl/ | n. / v. | 过路费　v. （为丧者）敲（钟） |
+| 1130 | recruit | /rɪˈkruːt/ | v. / n. | 招聘，吸收，劝说　n. 新成员 |
+| 1131 | renew | /rɪˈnjuː/ | v. | 更新，刷新 |
+| 1132 | continuous | /kənˈtɪnjuəs/ | adj. | 持续的，连续的，不断的（扩：continue v. 继续；延伸） |
+| 1133 | entitle | /ɪnˈtaɪtl/ | v. | 给…权力或资格 |
+| 1134 | qualify | /ˈkwɒlɪfaɪ/ | v. | 使合格，达标 |
+| 1135 | quality | /ˈkwɒləti/ | n. | 质量 |
+| 1136 | qualification | /ˌkwɒlɪfɪˈkeɪʃn/ | n. | 资格，学历，资历 |
+| 1137 | register | /ˈredʒɪstə(r)/ | v. / n. | 登记，注册　n. 登记表（扩：registration n. 登记，注册） |
+
+## 六、专注相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1138 | concentrate | /ˈkɒnsntreɪt/ | v. / n. | 集中，专注于　n. 浓缩物（扩：concentration n. 专心，重视，浓度） |
+| 1139 | central | /ˈsentrəl/ | adj. | 最重要的，首要的，在中心的 |
+| 1140 | focus | /ˈfəʊkəs/ | n. / v. | 焦点，中心　v. 使聚焦，使集中 |
+| 1141 | addict | /ˈædɪkt/ | v. / n. | 使成瘾，使入迷　n. 入迷的人；成瘾的人 |
+| 1142 | dictate | /dɪkˈteɪt/ | v. | 口述，强行规定，支配，命令（扩：dictation n. 听写，口述） |
+| 1143 | dictionary | /ˈdɪkʃənri/ | n. | 字典 |
+| 1144 | contradict | /ˌkɒntrəˈdɪkt/ | v. | 反驳，否认 |
+| 1145 | deny | /dɪˈnaɪ/ | v. | 否认，拒绝（扩：denial n. 否认，否定） |
+| 1146 | predict | /prɪˈdɪkt/ | v. | 预言；预告（扩：prediction n. 预言；预告） |
+| 1147 | indicate | /ˈɪndɪkeɪt/ | v. | 暗示，表明 |
+
+## 七、fect做相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1148 | facility | /fəˈsɪləti/ | n. | 设施，设备，天赋，才能 |
+| 1149 | defect | /ˈdiːfekt/ | n. | 缺点，缺陷 |
+| 1150 | effect | /ɪˈfekt/ | n. | 影响，效果（扩：effective adj. 有影响的，有效果的） |
+| 1151 | affect | /əˈfekt/ | v. | 影响，侵袭，感染 |
+| 1152 | affection | /əˈfekʃn/ | n. | 感情，影响，喜爱，钟爱 |
+| 1153 | infect | /ɪnˈfekt/ | v. | 传染，感染（扩：infection n. 传染病，传染，感染） |
+| 1154 | manufacture | /ˌmænjuˈfæktʃə(r)/ | v. / n. | 生产，制造　n. 大量制造；批量生产 |
+| 1155 | manual | /ˈmænjuəl/ | adj. / n. | 手工的，体力的　n. 使用手册；指南 |
+| 1156 | perfect | /ˈpɜːfɪkt/ | adj. | 完美的 |
+| 1157 | ideal | /aɪˈdiːəl/ | adj. / n. | 理想的，完美的　n. 理想；完美的人或物（扩：idealist adj. 理想主义的，空想的） |
+| 1158 | thoughtful | /ˈθɔːtfl/ | adj. | 思考的，沉思的，体贴的，关心的 |
+| 1159 | thorough | /ˈθʌrə/ | adj. | 彻底的，完全的 |
+| 1160 | entire | /ɪnˈtaɪə(r)/ | adj. | 全部的，整个的，完全的（扩：entirely adv. 完全地；全体；整体；全部） |
+| 1161 | whole | /həʊl/ | n. / adj. | 整个，全部，全体　adj. 全部的，完整的（扩：wholly adv. 完全地，全面地，整体地） |
+| 1162 | deadly | /ˈdedli/ | adj. / adv. | 致命的，彻底的，十足的　adv. 极其，非常 |
+| 1163 | factory | /ˈfæktri/ | n. | 工厂，制造厂 |
+| 1164 | mill | /mɪl/ | n. / v. | 工厂，磨坊　v. 用磨碾碎 |
+| 1165 | territory | /ˈterətri/ | n. | 领土，领地，领域 |
+| 1166 | laboratory | /ləˈbɒrətri/ | n. | 实验室 |
+| 1167 | lavatory | /ˈlævətri/ | n. | 盥洗室 |
+| 1168 | laundry | /ˈlɔːndri/ | n. | 洗衣店 |
+| 1169 | gallery | /ˈɡæləri/ | n. | 美术馆，画廊 |
+| 1170 | corridor | /ˈkɒrɪdɔː(r)/ | n. | 走廊，通道，过道 |
+| 1171 | aisle | /aɪl/ | n. | 走道，过道 |
+| 1172 | lane | /leɪn/ | n. | 小路，小巷，车道 |
+| 1173 | alley | /ˈæli/ | n. | 小巷，小街 |
+| 1174 | pave | /peɪv/ | v. | 铺（地） |
+| 1175 | grocery | /ˈɡrəʊsəri/ | n. | 杂货店，食品杂货店 |
+| 1176 | nursery | /ˈnɜːsəri/ | n. | 托儿所，幼儿园，儿童房，婴儿室 |
+| 1177 | scenery | /ˈsiːnəri/ | n. | 风景，景色，舞台布景 |
+| 1178 | scene | /siːn/ | n. | 场景，景色，情景 |
+| 1179 | landscape | /ˈlændskeɪp/ | n. | 风景，景色 |
+| 1180 | landlord | /ˈlændlɔːd/ | n. | 地主，业主，房东 |
+
+## 八、大学相关单词
+
+| 序号 | 单词 | 音标 | 词性 | 中文释义 |
+| ---: | --- | --- | --- | --- |
+| 1181 | tutor | /ˈtjuːtə(r)/ | n. / v. | 导师，家庭教师　v. 指导 |
+| 1182 | educator | /ˈedʒukeɪtə(r)/ | n. | 教育工作者，教师 |
+| 1183 | academic | /ˌækəˈdemɪk/ | n. / adj. | 大学教师，学者　adj. 学业的，学术的 |
+| 1184 | academy | /əˈkædəmi/ | n. | 学院，研究院 |
+| 1185 | scholar | /ˈskɒlə(r)/ | n. | 学者，奖学金获得者（扩：scholarly adj. 学者气质的，学者风度的） |
+| 1186 | seminar | /ˈsemɪnɑː(r)/ | n. | 研讨会，培训班 |
+| 1187 | forum | /ˈfɔːrəm/ | n. | 论坛，讨论会 |
+| 1188 | tuition | /tjuˈɪʃn/ | n. | 教学，学费 |
+| 1189 | faculty | /ˈfæklti/ | n. | 全体教师，系，院 |
+| 1190 | dean | /diːn/ | n. | 系主任，学院院长 |
+| 1191 | expert | /ˈekspɜːt/ | n. / adj. | 专家　adj. 专家的（扩：expertise n. 专长，专门技能） |
+| 1192 | experiment | /ɪkˈsperɪmənt/ | n. / v. | 实验　v. 进行实验；试用（扩：experimental adj. 实验的，实验性的） |
+| 1193 | discipline | /ˈdɪsəplɪn/ | n. | 纪律，学科，训练 |
+| 1194 | principal | /ˈprɪnsəpl/ | n. / adj. | 首长，校长　adj. 最重要的，主要的 |
+| 1195 | principle | /ˈprɪnsəpl/ | n. | 原则，法则 |
+| 1196 | theory | /ˈθɪəri/ | n. | 理论，原理，假设（扩：theoretical adj. 理论上的） |
+| 1197 | policy | /ˈpɒləsi/ | n. | 政策，方针，原则，保险单 |
+| 1198 | political | /pəˈlɪtɪkl/ | adj. | 政治的，政府的，政党的 |
+| 1199 | prince | /prɪns/ | n. | 王子 |
+| 1200 | princess | /ˌprɪnˈses/ | n. | 公主 |
+| 1201 | palace | /ˈpæləs/ | n. | 宫殿 |
+| 1202 | camp | /kæmp/ | n. / v. | 营地　v. 露营，宿营 |
+| 1203 | campus | /ˈkæmpəs/ | n. | 校园 |
+| 1204 | campaign | /kæmˈpeɪn/ | n. | 运动，活动 |
+| 1205 | champion | /ˈtʃæmpiən/ | n. | 冠军 |
+| 1206 | dormitory | /ˈdɔːmətri/ | n. | 宿舍，寝室 |
+| 1207 | graduate | /ˈɡrædʒuət/ | n. / v. | 大学毕业生；学士学位获得者　v. 毕业（扩：graduation n. 毕业，毕业典礼） |
+| 1208 | undergraduate | /ˌʌndəˈɡrædʒuət/ | n. | 本科生 |
+| 1209 | freshman | /ˈfreʃmən/ | n. | 新生，一年级学生 |
+| 1210 | junior | /ˈdʒuːniə(r)/ | adj. / n. | 年少的　n. 晚辈；下属；三年级学生 |
+| 1211 | senior | /ˈsiːniə(r)/ | adj. / n. | 长辈的，高级的　n. 长辈；上司；毕业班学生 |
+| 1212 | bachelor | /ˈbætʃələ(r)/ | n. | 单身汉，学士 |
+| 1213 | master | /ˈmɑːstə(r)/ | n. / v. | 大师，主人，硕士学位　v. 精通，控制，掌握（Doctor：医生；博士） |
+| 1214 | masterpiece | /ˈmɑːstəpiːs/ | n. | 代表作，杰作，名著 |
+| 1215 | drop | /drɒp/ | v. / n. | 变弱，降低，落下　n. 下降；减少；滴 |
+| 1216 | dropout | /ˈdrɒpaʊt/ | n. | 辍学者，退学者 |
+| 1217 | nourish | /ˈnʌrɪʃ/ | v. | 滋养，养育，培养（扩：nourishment 营养；滋养品） |
+| 1218 | cultivate | /ˈkʌltɪveɪt/ | v. | 培养，培育，开垦，耕作（扩：cultivation n. 培养，耕作，文雅；cultivated adj. 耕种的，有教养的） |
+| 1219 | rear | /rɪə(r)/ | n. / v. | 后面，背部　v. 抚养，栽培 |
+| 1220 | breed | /briːd/ | v. | 哺育，饲养，繁殖，培养，养育 |
+| 1221 | intelligent | /ɪnˈtelɪdʒənt/ | adj. | 聪明的，有才智的（扩：intelligence n. 智力；才能） |
+| 1222 | intellectual | /ˌɪntəˈlektʃuəl/ | adj. / n. | 智力的，聪明的，理智的　n. 知识分子 |
+| 1223 | sharp | /ʃɑːp/ | adj. | 锋利的，清晰的，急转的 |
+| 1224 | shape | /ʃeɪp/ | n. / v. | 形状，外形，身材，状况　v. 形成，塑造 |
+| 1225 | acknowledge | /əkˈnɒlɪdʒ/ | v. | 承认，认可，致谢 |
+| 1226 | pioneer | /ˌpaɪəˈnɪə(r)/ | n. / v. | 先驱，先锋　v. 当开拓者；倡导 |
+| 1227 | peer | /pɪə(r)/ | n. / v. | 同龄人，同等的人　v. 仔细看；端详 |
+| 1228 | compatible | /kəmˈpætəbl/ | adj. | 兼容的，可共用的，关系好的，和睦相处的（扩：compatibility n. 兼容性，共存，和睦相处） |
+| 1229 | curriculum | /kəˈrɪkjələm/ | n. | 课程 |
+| 1230 | chemical | /ˈkemɪkl/ | n. / adj. | 化学制品，化学品　adj. 与化学有关的（扩：chemistry n. 化学，化学组成） |
+| 1231 | geometry | /dʒiˈɒmətri/ | n. | 几何，几何图形 |
+| 1232 | triangle | /ˈtraɪæŋɡl/ | n. | 三角形 |
+| 1233 | trifle | /ˈtraɪfl/ | n. / v. | 少量，琐事　v. 怠慢，小看 |
+| 1234 | mathematics | /ˌmæθəˈmætɪks/ | n. | 数学，计算，运算（亦作 math；扩：mathematical adj. 数学的） |
+| 1235 | sociology | /ˌsəʊsiˈɒlədʒi/ | n. | 社会学（扩：sociologist n. 社会学家） |
+| 1236 | psychology | /saɪˈkɒlədʒi/ | n. | 心理学，心理影响（扩：psychological adj. 心理的，心理学的，精神上的） |
+| 1237 | art | /ɑːt/ | n. | 艺术（扩：artist n. 艺术家，美术家，大师；artistic adj. 艺术的，艺术家的） |
+| 1238 | architecture | /ˈɑːkɪtektʃə(r)/ | n. | 建筑学，建筑设计，结构 |
+| 1239 | architect | /ˈɑːkɪtekt/ | n. | 建筑师，设计师，创造者 |
+| 1240 | construct | /kənˈstrʌkt/ | v. | 修建，建造，组成，编制（扩：construction n. 建筑，创造，建立） |
+| 1241 | structure | /ˈstrʌktʃə(r)/ | n. / v. | 结构，体系，建筑物　v. 组织，安排 |
+| 1242 | infrastructure | /ˈɪnfrəstrʌktʃər/ | n. | 基础设施，基础建设 |
