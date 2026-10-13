@@ -1241,3 +1241,230 @@ id,word,phonetic,pos,meaning,day,section
 1240,construct,/kənˈstrʌkt/,v.,修建，建造，组成，编制（扩：construction n. 建筑，创造，建立）,Day13,八、大学相关单词
 1241,structure,/ˈstrʌktʃə(r)/,n. / v.,结构，体系，建筑物　v. 组织，安排,Day13,八、大学相关单词
 1242,infrastructure,/ˈɪnfrəstrʌktʃər/,n.,基础设施，基础建设,Day13,八、大学相关单词
+1243,paste,/peɪst/,n. / v.,糊，酱，糨糊　v. 粘贴,Day13,九、混合相关单词
+1244,portable,/ˈpɔːtəbl/,adj.,便携式的，手提的，轻便的,Day13,九、混合相关单词
+1245,compound,/ˈkɒmpaʊnd/,n. / adj. / v.,混合物，化合物，复合词　adj. 复合的　v. 使加重，使恶化,Day13,九、混合相关单词
+1246,pond,/pɒnd/,n.,池塘，水池（原文 pound 释义为池塘，按词义改为 pond）,Day13,九、混合相关单词
+1247,complex,/ˈkɒmpleks/,adj. / n.,复杂的，复合的　n. 建筑群；情结,Day13,九、混合相关单词
+1248,collapse,/kəˈlæps/,v. / n.,倒塌，坍塌　n. 倒塌；塌陷,Day13,九、混合相关单词
+1249,complicate,/ˈkɒmplɪkeɪt/,v.,使复杂化（扩：complicated adj. 复杂的，难懂的）,Day13,九、混合相关单词
+1250,confuse,/kənˈfjuːz/,v.,使糊涂，使迷惑，混淆（扩：confusion n. 不确定，困惑，混淆）,Day13,九、混合相关单词
+1251,request,/rɪˈkwest/,n. / v.,请求，要求,Day13,十、请求要求的相关词
+1252,require,/rɪˈkwaɪə(r)/,v.,需要，要求，规定（扩：requirement n. 需求，必要条件）,Day13,十、请求要求的相关词
+1253,demand,/dɪˈmɑːnd/,n. / v.,要求，所需之物　v. 强烈要求,Day13,十、请求要求的相关词
+1254,demanding,/dɪˈmɑːndɪŋ/,adj.,要求高的，苛求的，苛刻的,Day13,十、请求要求的相关词
+1255,acquire,/əˈkwaɪə(r)/,v.,获得，得到，购得，养成（扩：acquisition n. 获得，获得物）,Day13,十、请求要求的相关词
+1256,inquire,/ɪnˈkwaɪə(r)/,v.,打听，询问，研究,Day13,十、请求要求的相关词
+1257,courage,/ˈkʌrɪdʒ/,n.,勇气，胆量（扩：courageous adj. 勇敢的，无畏的）,Day13,十一、精神相关单词
+1258,encourage,/ɪnˈkʌrɪdʒ/,v.,支持，鼓励,Day13,十一、精神相关单词
+1259,encouragement,/ɪnˈkʌrɪdʒmənt/,n.,鼓舞，鼓励,Day13,十一、精神相关单词
+1260,discourage,/dɪsˈkʌrɪdʒ/,v.,使气馁，使灰心,Day13,十一、精神相关单词
+1261,frustrate,/frʌˈstreɪt/,v.,使沮丧，使懊恼（扩：frustration n. 沮丧，挫败）,Day13,十一、精神相关单词
+1262,provoke,/prəˈvəʊk/,v.,激起，引发，挑衅,Day13,十一、精神相关单词
+1263,advocate,/ˈædvəkeɪt/,n. / v.,支持者，拥护者　v. 支持，拥护，提倡,Day13,十一、精神相关单词
+1264,choke,/tʃəʊk/,v.,窒息，噎住，哽咽（原文 chock）,Day13,十一、精神相关单词
+1265,sponsor,/ˈspɒnsə(r)/,v. / n.,主办，赞助　n. 发起人；赞助者,Day13,十一、精神相关单词
+1266,spontaneous,/spɒnˈteɪniəs/,adj.,自发的，自然的（扩：spontaneity n. 自发性，自然）,Day13,十一、精神相关单词
+1267,spirit,/ˈspɪrɪt/,n.,精神；心灵；本质（扩：spiritual adj. 精神的，心灵的，宗教的）,Day13,十一、精神相关单词
+1268,inspire,/ɪnˈspaɪə(r)/,v.,激励，鼓舞,Day13,十一、精神相关单词
+1269,inspiration,/ˌɪnspəˈreɪʃn/,n.,灵感,Day13,十一、精神相关单词
+1270,aspire,/əˈspaɪə(r)/,v.,渴望，有志于,Day13,十一、精神相关单词
+1271,eager,/ˈiːɡə(r)/,adj.,渴望的，热切的,Day13,十一、精神相关单词
+1272,eagle,/ˈiːɡl/,n.,鹰,Day13,十一、精神相关单词
+1273,thirst,/θɜːst/,v. / n.,渴望，渴求　n. 口渴（扩：thirsty adj. 渴的，口渴的；原文 thirty）,Day13,十一、精神相关单词
+1274,desire,/dɪˈzaɪə(r)/,n. / v.,愿望，欲望，渴望　v. 渴望，期望（扩：desirable adj. 渴望得到的，想要的）,Day13,十一、精神相关单词
+1275,cease,/siːs/,v.,停止，终止,Day13,十一、精神相关单词
+1276,suspend,/səˈspend/,v.,暂停，中止，悬挂,Day13,十一、精神相关单词
+1277,halt,/hɔːlt/,v. / n.,停止，停下　n. 停止；阻止；暂停,Day13,十一、精神相关单词
+1278,describe,/dɪˈskraɪb/,v.,形容，描述（原文 discribe；扩：description n. 描述，说明）,Day13,十二、描述相关单词
+1279,script,/skrɪpt/,n.,手记，笔记，剧本,Day13,十二、描述相关单词
+1280,prescribe,/prɪˈskraɪb/,v.,规定，开处方,Day13,十二、描述相关单词
+1281,skill,/skɪl/,n.,技能，技巧，技术（扩：skilful/skillful adj. 熟练的，制作精良的）,Day13,十二、描述相关单词
+1282,technique,/tekˈniːk/,n.,技艺，工艺，技巧，技能（扩：technical adj. 技术的，技能的，专业的）,Day13,十二、描述相关单词
+1283,technology,/tekˈnɒlədʒi/,n.,科技，工艺，工程技术（扩：technological adj. 与技术有关的）,Day13,十二、描述相关单词
+1284,high-tech,/ˌhaɪ ˈtek/,adj.,高科技的，样式新颖的（亦作 hi-tech）,Day13,十二、描述相关单词
+1285,biotechnology,/ˌbaɪəʊtekˈnɒlədʒi/,n.,生物科技,Day13,十二、描述相关单词
+1286,clone,/kləʊn/,v. / n.,克隆，复制　n. 克隆动物,Day13,十二、描述相关单词
+1287,genetic,/dʒəˈnetɪk/,adj.,基因的，遗传学的,Day13,十二、描述相关单词
+1288,technician,/tekˈnɪʃn/,n.,技术员，技师（词尾 -ian 多表…的人）,Day13,十二、描述相关单词
+1289,mechanic,/məˈkænɪk/,n.,机械师，机械修理工，技工（扩：mechanical adj. 机动的，机械的，无思想的）,Day13,十二、描述相关单词
+1290,mechanism,/ˈmekənɪzəm/,n.,机械装置，机件，（生物体内的）机制,Day13,十二、描述相关单词
+1291,machinery,/məˈʃiːnəri/,n.,机器，机械,Day13,十二、描述相关单词
+1292,radar,/ˈreɪdɑː(r)/,n.,雷达,Day13,十二、描述相关单词
+1293,radiation,/ˌreɪdiˈeɪʃn/,n.,辐射，放射线，放射疗法（扩：radiate v. 辐射，发射）,Day13,十二、描述相关单词
+1294,hardware,/ˈhɑːdweə(r)/,n.,硬件，工具，设备，机器（扩：software 软件；ware 器皿，制品）,Day13,十二、描述相关单词
+1295,press,/pres/,n. / v.,新闻，出版社，记者　v. 按，压,Day13,十三、press相关单词
+1296,depress,/dɪˈpres/,v.,使沮丧，使萧条（扩：depression n. 沮丧，消沉，萧条）,Day13,十三、press相关单词
+1297,repress,/rɪˈpres/,v.,镇压，抑制情感,Day13,十三、press相关单词
+1298,suppress,/səˈpres/,v.,镇压，忍住（眼泪等）,Day13,十三、press相关单词
+1299,impress,/ɪmˈpres/,v.,留下印象，使铭记（扩：impression n. 印象）,Day13,十三、press相关单词
+1300,remind,/rɪˈmaɪnd/,v.,提醒，使想起,Day13,十三、press相关单词
+1301,recall,/rɪˈkɔːl/,v.,召回，回忆起,Day13,十三、press相关单词
+1302,monument,/ˈmɒnjumənt/,n.,纪念碑（或馆、堂、像等）；历史遗迹,Day13,十三、press相关单词
+1303,memorial,/məˈmɔːriəl/,n. / adj.,纪念品，纪念碑　adj. 纪念的；悼念的,Day13,十三、press相关单词
+1304,memo,/ˈmeməʊ/,n.,备忘录,Day13,十三、press相关单词
+1305,express,/ɪkˈspres/,v. / adj. / n.,表示，表达，表露　adj. 快速的　n. 特快列车（扩：expression n. 表示，表达，表情）,Day13,十三、press相关单词
+1306,expressway,/ɪkˈspresweɪ/,n.,高速公路,Day13,十三、press相关单词
+1307,freeway,/ˈfriːweɪ/,n.,高速公路,Day13,十三、press相关单词
+1308,motorway,/ˈməʊtəweɪ/,n.,高速公路,Day13,十三、press相关单词
+1309,highway,/ˈhaɪweɪ/,n.,公路，大路,Day13,十三、press相关单词
+1310,bypass,/ˈbaɪpɑːs/,n. / v.,旁路，旁道　v. 绕过，避开,Day13,十三、press相关单词
+1311,sideways,/ˈsaɪdweɪz/,adv.,向一边地，侧着,Day13,十三、press相关单词
+1312,vertical,/ˈvɜːtɪkl/,adj.,垂直的，直立的，纵向的,Day13,十三、press相关单词
+1313,punish,/ˈpʌnɪʃ/,v.,处罚（扩：punishment n. 惩罚，严厉对待）,Day13,十三、press相关单词
+1314,penalty,/ˈpenəlti/,n.,处罚，惩罚，不利（扩：penalise/penalize v. 惩罚，处罚）,Day13,十三、press相关单词
+1315,guilt,/ɡɪlt/,n.,内疚；犯罪；责任（原文 gulit；扩：guilty adj. 感到内疚的，有罪责的）,Day13,十三、press相关单词
+1316,apologize,/əˈpɒlədʒaɪz/,v.,道歉，谢罪（亦作 apologise）,Day13,十三、press相关单词
+1317,sin,/sɪn/,n.,罪行，过错,Day13,十三、press相关单词
+1318,kneel,/niːl/,v.,跪下,Day13,十三、press相关单词
+1319,mud,/mʌd/,n.,泥，泥浆（扩：muddy adj. 泥泞的）,Day13,十三、press相关单词
+1320,dignity,/ˈdɪɡnəti/,n.,庄重，尊严，高贵（扩：dignify v. 使有尊严，使崇高，美化）,Day13,十三、press相关单词
+1321,innocent,/ˈɪnəsnt/,adj. / n.,天真的；清白的，无罪的　n. 无辜者；单纯的人（扩：innocence n. 清白；天真）,Day13,十三、press相关单词
+1322,decent,/ˈdiːsnt/,adj.,体面的，得体的，正派的,Day13,十三、press相关单词
+1323,incentive,/ɪnˈsentɪv/,n.,动机，刺激，激励,Day13,十三、press相关单词
+1324,execute,/ˈeksɪkjuːt/,v.,执行；处死（扩：execution n. 执行，死刑）,Day13,十三、press相关单词
+1325,loophole,/ˈluːphəʊl/,n.,漏洞,Day13,十三、press相关单词
+1326,assist,/əˈsɪst/,v.,帮助，促进（扩：assistance n. 帮助；援助）,Day13,十四、sist“站”引出“公司”相关单词
+1327,resist,/rɪˈzɪst/,v.,抵制，阻挡（扩：resistance n. 阻力；电阻；抵抗）,Day13,十四、sist“站”引出“公司”相关单词
+1328,insist,/ɪnˈsɪst/,v.,坚决要求，坚持，坚称（扩：insistence n. 坚决要求，坚持，固执）,Day13,十四、sist“站”引出“公司”相关单词
+1329,persist,/pəˈsɪst/,v.,坚持，持续存在（扩：persistent adj. 坚持的，有毅力的）,Day13,十四、sist“站”引出“公司”相关单词
+1330,consist,/kənˈsɪst/,v.,由…组成，构成,Day13,十四、sist“站”引出“公司”相关单词
+1331,comprise,/kəmˈpraɪz/,v.,包括，由…组成,Day13,十四、sist“站”引出“公司”相关单词
+1332,praise,/preɪz/,v. / n.,表扬，赞美,Day13,十四、sist“站”引出“公司”相关单词
+1333,enterprise,/ˈentəpraɪz/,n.,企业，规划，事业,Day13,十四、sist“站”引出“公司”相关单词
+1334,entrepreneur,/ˌɒntrəprəˈnɜː(r)/,n.,企业家（扩：entrepreneurial adj. 企业的，富有企业家精神的）,Day13,十四、sist“站”引出“公司”相关单词
+1335,corporation,/ˌkɔːpəˈreɪʃn/,n.,公司，法人（扩：corporate adj. 公司的，法人的，全体的；n. 合伙公司）,Day13,十四、sist“站”引出“公司”相关单词
+1336,empire,/ˈempaɪə(r)/,n.,帝国，大企业（扩：emperor n. 皇帝）,Day13,十四、sist“站”引出“公司”相关单词
+1337,accompany,/əˈkʌmpəni/,v.,陪伴，伴随（扩：companion n. 同伴，朋友）,Day13,十四、sist“站”引出“公司”相关单词
+1338,status,/ˈsteɪtəs/,n.,法律地位；地位；身份,Day13,十五、L5-1补：自由雕像相关词
+1339,destination,/ˌdestɪˈneɪʃn/,n.,目的地；目标,Day13,十五、L5-1补：自由雕像相关词
+1340,revenue,/ˈrevənjuː/,n.,收入，收益,Day13,十五、L5-1补：自由雕像相关词
+1341,avenue,/ˈævənjuː/,n.,大街，林荫大道，途径,Day13,十五、L5-1补：自由雕像相关词
+1342,income,/ˈɪnkʌm/,n.,收入，收益,Day13,十五、L5-1补：自由雕像相关词
+1343,gross,/ɡrəʊs/,adj. / v.,总的，毛的，严重的　v. 总收入为，总共赚得,Day13,十五、L5-1补：自由雕像相关词
+1344,economy,/ɪˈkɒnəmi/,n.,经济，国家（扩：economic adj. 经济学的，可赚钱的）,Day13,十五、L5-1补：自由雕像相关词
+1345,economics,/ˌiːkəˈnɒmɪks/,n.,经济学，经济情况,Day13,十五、L5-1补：自由雕像相关词
+1346,economist,/ɪˈkɒnəmɪst/,n.,经济学家,Day13,十五、L5-1补：自由雕像相关词
+1347,economical,/ˌiːkəˈnɒmɪkl/,adj.,节约的，经济的，简洁的,Day13,十五、L5-1补：自由雕像相关词
+1348,scientific,/ˌsaɪənˈtɪfɪk/,adj.,科学的，细节严谨的,Day13,十五、L5-1补：自由雕像相关词
+1349,evil,/ˈiːvl/,adj. / n.,邪恶的，恶毒的　n. 邪恶；恶行,Day13,十五、L5-1补：自由雕像相关词
+1350,produce,/prəˈdjuːs/,v. / n.,生产，制造，展现　n. 产品；农产品（扩：reproduce v. 复制，再生产；product n. 产品，产物）,Day13,十五、L5-1补：自由雕像相关词
+1351,productivity,/ˌprɒdʌkˈtɪvəti/,n.,生产率，生产效率，生产力（原文 profuctivity）,Day13,十五、L5-1补：自由雕像相关词
+1352,industry,/ˈɪndəstri/,n.,工业，行业，勤奋，勤劳（扩：industrial adj. 工业的，产业的）,Day13,十五、L5-1补：自由雕像相关词
+1353,manipulate,/məˈnɪpjuleɪt/,v.,操作，操纵，影响,Day13,十五、L5-1补：自由雕像相关词
+1354,operate,/ˈɒpəreɪt/,v.,工作；控制；操作（扩：operation n. 手术；operator n. 操作员）,Day13,十五、L5-1补：自由雕像相关词
+1355,cooperate,/kəʊˈɒpəreɪt/,v.,合作；协作（扩：cooperation n. 合作）,Day13,十五、L5-1补：自由雕像相关词
+1356,collaborate,/kəˈlæbəreɪt/,v.,合作；协作,Day13,十五、L5-1补：自由雕像相关词
+1357,profit,/ˈprɒfɪt/,n. / v.,利益，利润，好处　v. 有利，得利，有益于（扩：profitable adj. 有利可图的，有益的）,Day13,十五、L5-1补：自由雕像相关词
+1358,benefit,/ˈbenɪfɪt/,n. / v.,利益，津贴　v. 使受益（扩：beneficial adj. 有益的，有利的）,Day13,十五、L5-1补：自由雕像相关词
+1359,salary,/ˈsæləri/,n.,薪水,Day13,十五、L5-1补：自由雕像相关词
+1360,earnings,/ˈɜːnɪŋz/,n.,薪水，利润,Day13,十五、L5-1补：自由雕像相关词
+1361,wage,/weɪdʒ/,n. / v.,工资　v. 开展，发动,Day13,十五、L5-1补：自由雕像相关词
+1362,fee,/fiː/,n.,费用，酬金,Day13,十五、L5-1补：自由雕像相关词
+1363,fare,/feə(r)/,n. / v.,费用，票　v. 成功,Day13,十五、L5-1补：自由雕像相关词
+1364,farewell,/ˌfeəˈwel/,n.,告别,Day13,十五、L5-1补：自由雕像相关词
+1365,welfare,/ˈwelfeə(r)/,n.,福利，救济，幸福,Day13,十五、L5-1补：自由雕像相关词
+1366,pension,/ˈpenʃn/,n.,养老金，抚恤金,Day13,十五、L5-1补：自由雕像相关词
+1367,allowance,/əˈlaʊəns/,n.,津贴，补助,Day13,十五、L5-1补：自由雕像相关词
+1368,bonus,/ˈbəʊnəs/,n.,奖金，意外收获,Day13,十五、L5-1补：自由雕像相关词
+1369,award,/əˈwɔːd/,v. / n.,授予，给予奖励　n. 奖品；奖金,Day13,十五、L5-1补：自由雕像相关词
+1370,reward,/rɪˈwɔːd/,v. / n.,奖励，奖赏　n. 报酬；赏金；回报,Day13,十五、L5-1补：自由雕像相关词
+1371,awkward,/ˈɔːkwəd/,adj.,令人尴尬的，难对付的，笨拙的,Day13,十五、L5-1补：自由雕像相关词
+1372,awe,/ɔː/,n. / v.,敬畏　v. 使敬畏（扩：awful adj. 可怕的，极坏的，非常的）,Day13,十五、L5-1补：自由雕像相关词
+1373,awesome,/ˈɔːsəm/,adj.,令人惊叹的，使人惊惧的，很好的,Day13,十五、L5-1补：自由雕像相关词
+1374,retail,/ˈriːteɪl/,n. / v.,零售　v. 详说，述说（扩：retailer n. 零售商）,Day13,十五、L5-1补：自由雕像相关词
+1375,tailor,/ˈteɪlə(r)/,n. / v.,裁缝　v. 专门制作，定做,Day13,十五、L5-1补：自由雕像相关词
+1376,detail,/ˈdiːteɪl/,n.,细节，详情,Day13,十五、L5-1补：自由雕像相关词
+1377,advertise,/ˈædvətaɪz/,v.,做广告，宣传（扩：advertisement n. 广告，启事）,Day13,十五、L5-1补：自由雕像相关词
+1378,spy,/spaɪ/,n. / v.,间谍　v. 从事间谍活动，认出，查明,Day13,十六、sp表示“看”相关单词
+1379,aspect,/ˈæspekt/,n.,方面，外貌,Day13,十六、sp表示“看”相关单词
+1380,spin,/spɪn/,v.,快速旋转，纺纱,Day13,十六、sp表示“看”相关单词
+1381,suspect,/səˈspekt/ v.；/ˈsʌspekt/ n. adj.,n. / v. / adj.,嫌疑分子　v. 怀疑　adj. 可疑的（扩：suspicion n. 猜疑，怀疑）,Day13,十六、sp表示“看”相关单词
+1382,suspicious,/səˈspɪʃəs/,adj.,可疑的，猜疑的,Day13,十六、sp表示“看”相关单词
+1383,inspect,/ɪnˈspekt/,v.,调查；检查（扩：inspection n. 检查，视察）,Day13,十六、sp表示“看”相关单词
+1384,check,/tʃek/,v. / n.,检查，核对，制止　n. 支票；结账单,Day13,十六、sp表示“看”相关单词
+1385,cheque,/tʃek/,n.,支票,Day13,十六、sp表示“看”相关单词
+1386,examine,/ɪɡˈzæmɪn/,v.,审查，检查，测验（扩：examination n. 考试，审查，调查）,Day13,十六、sp表示“看”相关单词
+1387,monitor,/ˈmɒnɪtə(r)/,n. / v.,班长；显示屏；监视器　v. 监视；监测；跟踪调查,Day13,十六、sp表示“看”相关单词
+1388,respect,/rɪˈspekt/,v. / n.,尊重，重视　n. 尊敬；方面,Day13,十六、sp表示“看”相关单词
+1389,respective,/rɪˈspektɪv/,adj.,分别的；各自的,Day13,十六、sp表示“看”相关单词
+1390,prospect,/ˈprɒspekt/,n.,前途；预期；展望；设想（扩：prospective adj. 有前途的）,Day13,十六、sp表示“看”相关单词
+1391,speculate,/ˈspekjuleɪt/,v.,推测；投机（扩：speculation n. 推测；投机买卖；原文 Simulation）,Day13,十六、sp表示“看”相关单词
+1392,perspective,/pəˈspektɪv/,n.,看法，观点,Day13,十六、sp表示“看”相关单词
+1393,standpoint,/ˈstændpɔɪnt/,n.,立场；观点,Day13,十六、sp表示“看”相关单词
+1394,statement,/ˈsteɪtmənt/,n.,声明；陈述,Day13,十六、sp表示“看”相关单词
+1395,point,/pɔɪnt/,v. / n.,对着，朝着　n. 观点，重点，核心问题，得分,Day13,十六、sp表示“看”相关单词
+1396,notion,/ˈnəʊʃn/,n.,观念，信念，理解,Day13,十六、sp表示“看”相关单词
+1397,concept,/ˈkɒnsept/,n.,观念，概念,Day13,十六、sp表示“看”相关单词
+1398,telescope,/ˈtelɪskəʊp/,n.,望远镜,Day13,十六、sp表示“看”相关单词
+1399,expect,/ɪkˈspekt/,v.,期待，预料，猜想（扩：expectation n. 期望，希望）,Day13,十六、sp表示“看”相关单词
+1400,anticipate,/ænˈtɪsɪpeɪt/,v.,预料，预计，期望,Day13,十六、sp表示“看”相关单词
+1401,participate,/pɑːˈtɪsɪpeɪt/,v.,参加，参与,Day13,十六、sp表示“看”相关单词
+1402,antique,/ænˈtiːk/,n. / adj.,文物，古董　adj. 古老的；古董的,Day13,十六、sp表示“看”相关单词
+1403,margin,/ˈmɑːdʒɪn/,n.,边缘，利润，极限，白边,Day13,十七、边缘边沿相关单词
+1404,boundary,/ˈbaʊndri/,n.,边界，界限，分界线,Day13,十七、边缘边沿相关单词
+1405,bound,/baʊnd/,adj. / v.,一定会；有义务；准备前往　v. 跳跃；形成…的边界,Day13,十七、边缘边沿相关单词
+1406,bounce,/baʊns/,v. / n.,跳动，弹射，反射　n. 弹跳；活力,Day13,十七、边缘边沿相关单词
+1407,horizon,/həˈraɪzn/,n.,地平线，眼界，范围,Day13,十七、边缘边沿相关单词
+1408,edge,/edʒ/,n.,边缘，刀口，优势,Day13,十七、边缘边沿相关单词
+1409,hedge,/hedʒ/,n.,树篱，障碍，防范措施,Day13,十七、边缘边沿相关单词
+1410,frontier,/ˈfrʌntɪə(r)/,n.,边境，新领域,Day13,十七、边缘边沿相关单词
+1411,border,/ˈbɔːdə(r)/,n. / v.,国界，边界　v. 与…接壤,Day13,十七、边缘边沿相关单词
+1412,import,/ˈɪmpɔːt/,n. / v.,进口，重要性　v. 进口，输入,Day13,十七、边缘边沿相关单词
+1413,export,/ˈekspɔːt/,n. / v.,输出（物）；出口（物）　v. 输出，出口,Day13,十七、边缘边沿相关单词
+1414,passport,/ˈpɑːspɔːt/,n.,护照，途径，手段,Day13,十七、边缘边沿相关单词
+1415,visa,/ˈviːzə/,n.,签证,Day13,十七、边缘边沿相关单词
+1416,specific,/spəˈsɪfɪk/,adj. / n.,具体的，详细的　n. 细节；详情（扩：specify v. 具体说明，明确规定）,Day13,十八、易混淆的一组词
+1417,specification,/ˌspesɪfɪˈkeɪʃn/,n.,规格，说明书,Day13,十八、易混淆的一组词
+1418,especially,/ɪˈspeʃəli/,adv.,尤其，专门，非常,Day13,十八、易混淆的一组词
+1419,particular,/pəˈtɪkjələ(r)/,adj. / n.,特别的，详细的，专指的　n. 细节；详情（扩：particularly adv. 特别，尤其；等于 especially）,Day13,十八、易混淆的一组词
+1420,special,/ˈspeʃl/,adj. / n.,特殊的，特设的　n. 特别活动；特色菜（扩：specialise/specialize v. 专门研究，专供）,Day13,十八、易混淆的一组词
+1421,specialist,/ˈspeʃəlɪst/,n. / adj.,专家；专科医生　adj. 专业的；专家的,Day13,十八、易混淆的一组词
+1422,doctor,/ˈdɒktə(r)/,n. / v.,医生，博士　v. 篡改（扩：doctorate n. 博士学位）,Day13,十八、易混淆的一组词
+1423,peculiar,/pɪˈkjuːliə(r)/,adj.,奇怪的，特殊的，罕见的,Day13,十八、易混淆的一组词
+1424,unique,/juˈniːk/,adj.,唯一的，独特的，罕见的,Day13,十八、易混淆的一组词
+1425,odd,/ɒd/,adj.,奇怪的，临时的，零散的，奇数的,Day13,十八、易混淆的一组词
+1426,odds,/ɒdz/,n.,可能性，概率，不利条件，差异,Day13,十八、易混淆的一组词
+1427,weird,/wɪəd/,adj.,奇异的，不寻常的，怪异的,Day13,十八、易混淆的一组词
+1428,acquaint,/əˈkweɪnt/,v.,使熟悉，使了解（扩：acquaintance n. 熟人）,Day13,十八、易混淆的一组词
+1429,familiar,/fəˈmɪliə(r)/,adj.,熟悉的，通晓,Day13,十八、易混淆的一组词
+1430,troublesome,/ˈtrʌblsəm/,adj.,引起麻烦的，令人讨厌的,Day13,十九、烦、打扰相关单词
+1431,bother,/ˈbɒðə(r)/,v. / n.,打扰；烦扰　n. 麻烦；烦扰,Day13,十九、烦、打扰相关单词
+1432,plague,/pleɪɡ/,v. / n.,困扰，使苦恼　n. 瘟疫；灾害,Day13,十九、烦、打扰相关单词
+1433,annoy,/əˈnɔɪ/,v.,使烦恼，使生气，骚扰,Day13,十九、烦、打扰相关单词
+1434,ignore,/ɪɡˈnɔː(r)/,v.,忽视，不予理睬（扩：ignorance n. 无知；ignorant adj. 无知的，粗鲁的）,Day13,十九、烦、打扰相关单词
+1435,neglect,/nɪˈɡlekt/,n. / v.,忽视，忽略,Day13,十九、烦、打扰相关单词
+1436,negative,/ˈneɡətɪv/,adj.,有害的，消极的，负面的，否定的,Day13,十九、烦、打扰相关单词
+1437,passive,/ˈpæsɪv/,adj.,被动的，消极的,Day13,十九、烦、打扰相关单词
+1438,optimistic,/ˌɒptɪˈmɪstɪk/,adj.,乐观（主义）的（扩：optimism n. 乐观，乐观主义）,Day13,十九、烦、打扰相关单词
+1439,pessimistic,/ˌpesɪˈmɪstɪk/,adj.,消极的，悲观的，厌世的（扩：pessimism n. 悲观，悲观主义）,Day13,十九、烦、打扰相关单词
+1440,statue,/ˈstætʃuː/,n.,雕塑，雕像,Day13,十九、烦、打扰相关单词
+1441,liberty,/ˈlɪbəti/,n.,自由,Day13,十九、烦、打扰相关单词
+1442,liberate,/ˈlɪbəreɪt/,v.,使自由；解放；使摆脱约束（或限制）,Day13,十九、烦、打扰相关单词
+1443,liberation,/ˌlɪbəˈreɪʃn/,n.,释放，解放,Day13,十九、烦、打扰相关单词
+1444,liberal,/ˈlɪbərəl/,adj. / n.,思想开明的；慷慨的；丰富的　n. 开明人士,Day13,十九、烦、打扰相关单词
+1445,deliberate,/dɪˈlɪbərət/,adj. / v.,故意的；深思熟虑的　v. 仔细考虑，深思熟虑,Day13,十九、烦、打扰相关单词
+1446,generous,/ˈdʒenərəs/,adj.,慷慨的，大方的，丰富的,Day13,十九、烦、打扰相关单词
+1447,mean,/miːn/,v. / adj.,意思是；意味着　adj. 吝啬的；卑鄙的，不善良的,Day13,十九、烦、打扰相关单词
+1448,meaning,/ˈmiːnɪŋ/,n.,意思，意义,Day13,十九、烦、打扰相关单词
+1449,means,/miːnz/,n.,方式；方法；手段；途径,Day13,十九、烦、打扰相关单词
+1450,previous,/ˈpriːviəs/,adj.,先前的，以往的；（时间上）稍前的,Day13,二十、u5 l1补2
+1451,prior,/ˈpraɪə(r)/,adj.,先前的；较早的；优先的；较重要的,Day13,二十、u5 l1补2
+1452,priority,/praɪˈɒrəti/,n.,优先，优先权；优先事项,Day13,二十、u5 l1补2
+1453,inferior,/ɪnˈfɪəriə(r)/,adj.,劣等的；下级的；差的,Day13,二十、u5 l1补2
+1454,inferiority,/ɪnˌfɪəriˈɒrəti/,n.,劣等；低等；劣势,Day13,二十、u5 l1补2
+1455,super,/ˈsuːpə(r)/,adj.,极好的，超级的,Day13,二十、u5 l1补2
+1456,superior,/suːˈpɪəriə(r)/,n. / adj.,级别更高的人，上级　adj. 更高级的；更好的,Day13,二十、u5 l1补2
+1457,superiority,/suːˌpɪəriˈɒrəti/,n.,优势；优越性,Day13,二十、u5 l1补2
+1458,superb,/suːˈpɜːb/,adj.,极佳的，卓越的；质量极高的,Day13,二十、u5 l1补2
+1459,supreme,/suːˈpriːm/,adj.,最高的，至高无上的；最大的（原文 superme）,Day13,二十、u5 l1补2
+1460,invade,/ɪnˈveɪd/,v.,侵犯，侵略，入侵,Day13,二十一、u5-l3补1：入侵相关词
+1461,intrude,/ɪnˈtruːd/,v.,侵入，打扰，闯入,Day13,二十一、u5-l3补1：入侵相关词
+1462,attack,/əˈtæk/,v. / n.,攻击，袭击；批评　n. 袭击，抨击；批评,Day13,二十一、u5-l3补1：入侵相关词
+1463,conquer,/ˈkɒŋkə(r)/,v.,征服，占领；击败,Day13,二十一、u5-l3补1：入侵相关词
+1464,colony,/ˈkɒləni/,n.,殖民地；群体；群,Day13,二十一、u5-l3补1：入侵相关词
+1465,retreat,/rɪˈtriːt/,v. / n.,撤退；退却；逃避,Day13,二十一、u5-l3补1：入侵相关词
+1466,treaty,/ˈtriːti/,n.,（国家间的）条约，协定,Day13,二十一、u5-l3补1：入侵相关词
+1467,defeat,/dɪˈfiːt/,v. / n.,击败；战胜　n. 失败；击败,Day13,二十一、u5-l3补1：入侵相关词
+1468,triumph,/ˈtraɪʌmf/,v. / n.,打败，战胜　n. 巨大成功；喜悦,Day13,二十一、u5-l3补1：入侵相关词
+1469,victory,/ˈvɪktəri/,n.,胜利，成功,Day13,二十一、u5-l3补1：入侵相关词
