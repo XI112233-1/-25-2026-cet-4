@@ -1468,3 +1468,114 @@ id,word,phonetic,pos,meaning,day,section
 1467,defeat,/dɪˈfiːt/,v. / n.,击败；战胜　n. 失败；击败,Day13,二十一、u5-l3补1：入侵相关词
 1468,triumph,/ˈtraɪʌmf/,v. / n.,打败，战胜　n. 巨大成功；喜悦,Day13,二十一、u5-l3补1：入侵相关词
 1469,victory,/ˈvɪktəri/,n.,胜利，成功,Day13,二十一、u5-l3补1：入侵相关词
+1470,opt,/ɒpt/,v.,选择，挑选（扩：option n. 供选择的东西，选择（权）；optional adj. 选择性的）,Day14,一、“选择”相关
+1471,compulsory,/kəmˈpʌlsəri/,adj.,强制的；义务的,Day14,一、“选择”相关
+1472,course,/kɔːs/,n.,课程；过程；航线；方针；进展（扩：optional course 选修课；compulsory course 必修课）,Day14,一、“选择”相关
+1473,case,/keɪs/,n.,实例；诉讼；容器；情况（原文“实力”按词义改为实例）,Day14,一、“选择”相关
+1474,choice,/tʃɔɪs/,n.,选择；入选者,Day14,一、“选择”相关
+1475,device,/dɪˈvaɪs/,n.,设备；手段,Day14,二、device相关
+1476,equipment,/ɪˈkwɪpmənt/,n.,用具，设备；装备,Day14,二、device相关
+1477,apparatus,/ˌæpəˈreɪtəs/,n.,仪器，器械,Day14,二、device相关
+1478,fix,/fɪks/,v. / n.,修理，校正；使固定；找到，确定　n. 解决办法,Day14,二、device相关
+1479,fixed,/fɪkst/,adj.,固定的；不易改变的；执着的,Day14,二、device相关
+1480,air conditioning,/ˈeə kənˌdɪʃənɪŋ/,n.,空气调节系统,Day14,二、device相关
+1481,furnish,/ˈfɜːnɪʃ/,v.,布置家具；供应，提供,Day14,二、device相关
+1482,furniture,/ˈfɜːnɪtʃə(r)/,n.,（可移动的）家具,Day14,二、device相关
+1483,decorate,/ˈdekəreɪt/,v.,装饰，装修,Day14,二、device相关
+1484,ornament,/ˈɔːnəmənt/,n. / v.,装饰，点缀；饰物　v. 装饰；美化,Day14,二、device相关
+1485,conclude,/kənˈkluːd/,v.,断定；得出结论；结束（扩：conclusion n. 结束，结局，结论，推论）,Day14,三、clude相关
+1486,summary,/ˈsʌməri/,n. / adj.,总结　adj. 总结性的（原文总結；扩：summarise/summarize v. 总结概括；To sum up 总之）,Day14,三、clude相关
+1487,sum,/sʌm/,n.,金额；算术；总数,Day14,三、clude相关
+1488,include,/ɪnˈkluːd/,v.,包括；使成为…的一部分,Day14,三、clude相关
+1489,exclude,/ɪkˈskluːd/,v.,不包括；防止…进入；排除,Day14,三、clude相关
+1490,eliminate,/ɪˈlɪmɪneɪt/,v.,排除；（比赛中）淘汰（原文 climinate；扩：elimination n. 消除，淘汰）,Day14,三、clude相关
+1491,except,/ɪkˈsept/,v. / prep. / conj.,不包括；把…除外　prep. 除…之外　conj. 除了；只是（原文误作 expect）,Day14,三、clude相关
+1492,exception,/ɪkˈsepʃn/,n.,一般情况以外的人（或事物）；例外,Day14,三、clude相关
+1493,exceptional,/ɪkˈsepʃənl/,adj.,杰出的，卓越的,Day14,三、clude相关
+1494,herd,/hɜːd/,n. / v.,牧群；兽群　v. 放牧；驱赶兽群,Day14,四、“动物”相关
+1495,pigeon,/ˈpɪdʒɪn/,n.,鸽子,Day14,四、“动物”相关
+1496,vivid,/ˈvɪvɪd/,adj.,生动的，逼真的；鲜艳的,Day14,四、“动物”相关
+1497,survive,/səˈvaɪv/,v.,生存；幸存；幸免于难（扩：survival n. 幸存，生存，残存物）,Day14,四、“动物”相关
+1498,appetite,/ˈæpɪtaɪt/,n.,胃口；喜爱；爱好（原文 appitite）,Day14,四、“动物”相关
+1499,select,/sɪˈlekt/,v. / adj.,挑选，选择　adj. 精选的；优等的,Day14,五、选择相关单词
+1500,lecture,/ˈlektʃə(r)/,v. / n.,讲授；告诫；指责　n. 演讲；讲座；教训,Day14,五、选择相关单词
+1501,elect,/ɪˈlekt/,v.,选举，推选；选择,Day14,五、选择相关单词
+1502,poll,/pəʊl/,n. / v.,民意调查；投票　v. 对…进行民意调查；获得,Day14,五、选择相关单词
+1503,collect,/kəˈlekt/,v.,收集；收藏；采集（扩：collection n. 收藏品，征收；collective adj. 集体的，共同的）,Day14,五、选择相关单词
+1504,dialect,/ˈdaɪəlekt/,n.,方言；土话,Day14,五、选择相关单词
+1505,accent,/ˈæksent/,n.,口音；腔调；重音,Day14,五、选择相关单词
+1506,rhythm,/ˈrɪðəm/,n.,节奏；韵律,Day14,五、选择相关单词
+1507,tone,/təʊn/,n. / v.,语调；语气；色调　v. 使更强健,Day14,五、选择相关单词
+1508,tune,/tjuːn/,n. / v.,曲调；曲子；歌曲　v. 使协调,Day14,五、选择相关单词
+1509,orchestra,/ˈɔːkɪstrə/,n.,管弦乐队,Day14,五、选择相关单词
+1510,outdoors,/ˌaʊtˈdɔːz/,adv. / n.,在户外；在野外　n. 旷野；郊外（原文 ady）,Day14,六、户外活动相关单词
+1511,venture,/ˈventʃə(r)/,n. / v.,企业，商业；冒险行为　v. 冒险；小心地说（扩：adventure n. 冒险，奇遇，大胆开拓）,Day14,六、户外活动相关单词
+1512,vacation,/vəˈkeɪʃn/,n. / v.,假期　v. 度假；休假,Day14,六、户外活动相关单词
+1513,vocation,/vəʊˈkeɪʃn/,n.,工作；职业；生活方式（扩：vocational adj. 职业的，业务知识的）,Day14,六、户外活动相关单词
+1514,excursion,/ɪkˈskɜːʃn/,n.,远足；短途旅行,Day14,六、户外活动相关单词
+1515,tour,/tʊə(r)/,n. / v.,旅游；观光　v. 在…旅游；在…巡回演出（扩：tourism n. 旅游业，旅游观光）,Day14,六、户外活动相关单词
+1516,journey,/ˈdʒɜːni/,n.,旅行；历程,Day14,六、户外活动相关单词
+1517,cruise,/kruːz/,v. / n.,乘船游览；巡航　n. 游船度假（扩：cruiser n. 巡洋舰，巡逻警车）,Day14,六、户外活动相关单词
+1518,voyage,/ˈvɔɪɪdʒ/,n. / v.,航行；旅行,Day14,六、户外活动相关单词
+1519,yoga,/ˈjəʊɡə/,n.,瑜伽,Day14,六、户外活动相关单词
+1520,training,/ˈtreɪnɪŋ/,n.,训练；培训；锻炼（扩：train n. 火车　v. 训练）,Day14,六、户外活动相关单词
+1521,workout,/ˈwɜːkaʊt/,n.,锻炼,Day14,六、户外活动相关单词
+1522,fit,/fɪt/,adj. / v.,健康的　v. 合适；合身；使胜任,Day14,六、户外活动相关单词
+1523,well-being,/ˌwel ˈbiːɪŋ/,n.,健康；安乐,Day14,六、户外活动相关单词
+1524,gym,/dʒɪm/,n.,体育馆；健身房；健身,Day14,六、户外活动相关单词
+1525,muscle,/ˈmʌsl/,n.,肌肉；体力；全力（扩：muscular adj. 肌肉发达的；强壮的）,Day14,六、户外活动相关单词
+1526,calorie,/ˈkæləri/,n.,卡路里,Day14,六、户外活动相关单词
+1527,energy,/ˈenədʒi/,n.,精力；活力；能源,Day14,六、户外活动相关单词
+1528,energetic,/ˌenəˈdʒetɪk/,adj.,精力充沛的；积极的,Day14,六、户外活动相关单词
+1529,battery,/ˈbætri/,n.,电池,Day14,六、户外活动相关单词
+1530,vigorous,/ˈvɪɡərəs/,adj.,精力充沛的；健壮的（扩：vigour/vigor n. 精力，活力；原文 vaogr）,Day14,六、户外活动相关单词
+1531,dynamic,/daɪˈnæmɪk/,adj.,充满活力的；精力充沛的；动力的；动态的,Day14,六、户外活动相关单词
+1532,carpet,/ˈkɑːpɪt/,n.,地毯；毛毯,Day14,七、car相关
+1533,pad,/pæd/,n. / v.,垫；便笺本　v. 轻轻地走,Day14,七、car相关
+1534,blanket,/ˈblæŋkɪt/,n.,毛毯；毯子；羊毛毯,Day14,七、car相关
+1535,blank,/blæŋk/,adj. / n.,空白的；空着的；没有表情的　n. 空白处；空格（原文空自）,Day14,七、car相关
+1536,vacant,/ˈveɪkənt/,adj.,空缺的；未被占用的；茫然的,Day14,七、car相关
+1537,vacuum,/ˈvækjuəm/,n. / v.,真空　v. 用真空吸尘器清扫,Day14,七、car相关
+1538,career,/kəˈrɪə(r)/,n.,职业；事业,Day14,七、car相关
+1539,cargo,/ˈkɑːɡəʊ/,n.,（船或飞机装载的）货物,Day14,七、car相关
+1540,scar,/skɑː(r)/,n. / v.,伤疤；创伤　v. 使结疤；使破损,Day14,七、car相关
+1541,carrot,/ˈkærət/,n.,胡萝卜,Day14,七、car相关
+1542,root,/ruːt/,n. / v.,根；根源；基础　v. （使）生根；使固定,Day14,七、car相关
+1543,carpenter,/ˈkɑːpəntə(r)/,n.,木工；木匠,Day14,七、car相关
+1544,cartoon,/kɑːˈtuːn/,n.,漫画；讽刺画；动画片,Day14,七、car相关
+1545,paint,/peɪnt/,n. / v.,油漆；颜料　v. 刷油漆；用颜料画；描绘,Day14,七、car相关
+1546,painting,/ˈpeɪntɪŋ/,n.,油画；绘画；着色,Day14,七、car相关
+1547,photography,/fəˈtɒɡrəfi/,n.,照相术；摄影,Day14,七、car相关
+1548,chart,/tʃɑːt/,n.,图；图表；海图,Day14,七、car相关
+1549,carrier,/ˈkæriə(r)/,n.,运输公司；运输工具；携带者,Day14,七、car相关
+1550,carriage,/ˈkærɪdʒ/,n.,（火车的）客车厢；四轮马车；婴儿车；运输,Day14,七、car相关
+1551,cart,/kɑːt/,n.,运货马车；手推车,Day14,七、car相关
+1552,insure,/ɪnˈʃʊə(r)/,v.,投保；确保,Day14,八、“保证”相关
+1553,insurance,/ɪnˈʃʊərəns/,n.,保险；保费；保障措施,Day14,八、“保证”相关
+1554,ensure,/ɪnˈʃʊə(r)/,v.,保证；确保,Day14,八、“保证”相关
+1555,guarantee,/ˌɡærənˈtiː/,v. / n.,保证；担保　n. 保证；保证书,Day14,八、“保证”相关
+1556,promise,/ˈprɒmɪs/,v. / n.,许诺；保证；答应　n. 承诺；迹象；吉兆,Day14,八、“保证”相关
+1557,promising,/ˈprɒmɪsɪŋ/,adj.,有希望的；有前途的,Day14,八、“保证”相关
+1558,compromise,/ˈkɒmprəmaɪz/,n. / v.,妥协；折中,Day14,八、“保证”相关
+1559,pledge,/pledʒ/,n. / v.,保证；诺言　v. 正式承诺；（使）发誓,Day14,八、“保证”相关
+1560,allege,/əˈledʒ/,v.,（未提出证据的）断言；声称；指控,Day14,八、“保证”相关
+1561,alleged,/əˈledʒd/,adj.,被指控的；涉嫌的,Day14,八、“保证”相关
+1562,swear,/sweə(r)/,v.,发誓；诅咒,Day14,八、“保证”相关
+1563,sweat,/swet/,n. / v.,汗　v. 出汗；辛苦工作；担心，焦虑（原文误作汪）,Day14,八、“保证”相关
+1564,sweater,/ˈswetə(r)/,n.,毛衣；线衣,Day14,八、“保证”相关
+1565,automate,/ˈɔːtəmeɪt/,v.,使自动化（扩：automation n. 自动化，自动操作）,Day14,九、汽车相关单词
+1566,automatic,/ˌɔːtəˈmætɪk/,adj. / n.,自动的；无意识的；必然的　n. 自动手枪；自动换挡汽车,Day14,九、汽车相关单词
+1567,engine,/ˈendʒɪn/,n.,发动机；引擎（扩：engineer n. 工程师，技师；engineering n. 工程，工程学）,Day14,九、汽车相关单词
+1568,vehicle,/ˈviːəkl/,n.,交通工具；车辆,Day14,九、汽车相关单词
+1569,motor,/ˈməʊtə(r)/,n. / adj.,发动机；汽车　adj. 有引擎的；由发动机推动的（原文“有隐形的”）,Day14,九、汽车相关单词
+1570,motel,/məʊˈtel/,n.,汽车旅馆,Day14,九、汽车相关单词
+1571,petrol,/ˈpetrəl/,n.,汽油（扩：petroleum n. 石油，原油）,Day14,九、汽车相关单词
+1572,coach,/kəʊtʃ/,n. / v.,马车；长途客车；教练；经济舱　v. 训练；培训；指导,Day14,九、汽车相关单词
+1573,horn,/hɔːn/,n.,喇叭；角；（乐器）号,Day14,九、汽车相关单词
+1574,fleet,/fliːt/,n.,舰队；车队,Day14,九、汽车相关单词
+1575,flee,/fliː/,v.,迅速离开；逃跑,Day14,九、汽车相关单词
+1576,breakdown,/ˈbreɪkdaʊn/,n.,（机器）故障；（关系）破裂；（讨论）失败,Day14,九、汽车相关单词
+1577,crack,/kræk/,v. / n.,破裂；重击；找到解决方法　n. 裂缝（扩：cracker n. 彩包爆竹，饼干，黑客）,Day14,九、汽车相关单词
+1578,tunnel,/ˈtʌnl/,n.,地道；隧道；洞穴通道,Day14,九、汽车相关单词
+1579,channel,/ˈtʃænl/,n.,海峡；航道；频道；电视台,Day14,九、汽车相关单词
+1580,steer,/stɪə(r)/,v.,驾驶；操纵；引导,Day14,九、汽车相关单词
